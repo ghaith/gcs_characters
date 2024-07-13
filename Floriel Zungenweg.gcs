@@ -2,8 +2,13 @@
 	"type": "character",
 	"version": 4,
 	"id": "aae79b7d-de7d-4d49-8e1f-43e27dfdc641",
-	"total_points": 235,
+	"total_points": 240,
 	"points_record": [
+		{
+			"when": "2024-07-11T23:12:01+02:00",
+			"points": 5,
+			"reason": "Campain"
+		},
 		{
 			"when": "2024-06-08T06:42:21+02:00",
 			"points": 5,
@@ -23,17 +28,17 @@
 	"profile": {
 		"name": "Floriel Zungenweg",
 		"age": "300",
-		"birthday": "December 20",
 		"eyes": "Gray",
-		"hair": "Black",
-		"skin": "Freckled",
+		"hair": "Black (No hair)",
+		"skin": "Freckled (Albino)",
 		"handedness": "Right",
 		"gender": "Male",
 		"height": "591'",
 		"weight": "180 lb",
 		"player_name": "Ghaith",
 		"organization": "Aufelf",
-		"tech_level": "3"
+		"tech_level": "3",
+		"portrait": "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"
 	},
 	"settings": {
 		"page": {
@@ -46,13 +51,13 @@
 		},
 		"block_layout": [
 			"reactions conditional_modifiers",
-			"melee",
-			"ranged",
 			"traits skills",
 			"spells",
+			"melee",
+			"ranged",
 			"equipment",
-			"other_equipment",
-			"notes"
+			"notes",
+			"other_equipment"
 		],
 		"attributes": [
 			{
@@ -639,6 +644,2312 @@
 	],
 	"traits": [
 		{
+			"id": "e70e33a8-b3c2-4fb7-bbc0-5fda7945ac1b",
+			"type": "trait_container",
+			"children": [
+				{
+					"id": "b5c7337f-161e-440a-ab98-0c95f7381370",
+					"type": "trait",
+					"name": "Absolute Timing",
+					"reference": "B35",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "e1830b10-082b-4286-aa34-c825edbdf81a",
+							"type": "modifier",
+							"name": "Chronolocation",
+							"cost": 3,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 2,
+					"calc": {
+						"points": 2
+					}
+				},
+				{
+					"id": "2fa58e14-2abd-474c-8ac9-cbbb6aa3e20d",
+					"type": "trait",
+					"name": "Astralenergie",
+					"levels": 14,
+					"points_per_level": 1,
+					"can_level": true,
+					"calc": {
+						"points": 14
+					}
+				},
+				{
+					"id": "a82e5545-0832-4658-ad59-9895c8073f51",
+					"type": "trait",
+					"name": "Charisma",
+					"reference": "B41",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"levels": 1,
+					"points_per_level": 5,
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "fortune-telling"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "leadership"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "panhandling"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "public speaking"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "reaction_bonus",
+							"situation": "from sapient being with whom you actively interact (converse, lecture, etc.)",
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "reaction_bonus",
+							"situation": "to Influence rolls",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"calc": {
+						"points": 5
+					}
+				},
+				{
+					"id": "82f43947-d215-4f34-b5c4-83d1bb451acd",
+					"type": "trait",
+					"name": "Cultural Adaptability",
+					"reference": "B46",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "93b78dfa-518a-4672-8ebd-fb558ebbff17",
+							"type": "modifier",
+							"name": "Xeno",
+							"cost": 10,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 10,
+					"calc": {
+						"points": 10
+					}
+				},
+				{
+					"id": "5138eaaf-1302-4acf-9f8c-ecc8617124ad",
+					"type": "trait",
+					"name": "Danger Sense",
+					"reference": "B47,P46",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"base_points": 15,
+					"calc": {
+						"points": 15
+					}
+				},
+				{
+					"id": "b5e3d71a-8ee2-4a7e-8380-6f5d93d36ffe",
+					"type": "trait",
+					"name": "Eidetic Memory",
+					"reference": "B51",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "309120f1-8e25-46bf-ba83-6c998f4d9025",
+							"type": "modifier",
+							"name": "Photographic",
+							"reference": "B51",
+							"cost": 5,
+							"cost_type": "points"
+						}
+					],
+					"base_points": 5,
+					"calc": {
+						"points": 10
+					}
+				},
+				{
+					"id": "ae7eb2df-d35b-41ac-a840-3ed7a85815ba",
+					"type": "trait",
+					"name": "Language Talent",
+					"reference": "B65",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"base_points": 10,
+					"calc": {
+						"points": 10
+					}
+				},
+				{
+					"id": "8a6262d5-58c1-49ea-8646-6b6bc55e0752",
+					"type": "trait",
+					"name": "Magery",
+					"reference": "B66",
+					"tags": [
+						"Advantage",
+						"Mental",
+						"Supernatural"
+					],
+					"modifiers": [
+						{
+							"id": "10b7c609-d742-473c-a229-fd39e10a948f",
+							"type": "modifier",
+							"name": "Dance",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "8cffcc39-a19c-4aa2-8a65-f270534b6ad7",
+							"type": "modifier",
+							"name": "Dark-Aspected",
+							"cost": -50,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "9a43b6eb-5fca-4b3b-9475-9c8922652001",
+							"type": "modifier",
+							"name": "Day-Aspected",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "1db3c1d2-12b8-4d9f-aaec-8a1f58f99922",
+							"type": "modifier",
+							"name": "Musical",
+							"cost": -50,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "7ef63d35-934c-4046-8b55-22208f7a99b6",
+							"type": "modifier",
+							"name": "Night-Aspected",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "0f92e868-30bd-4a88-8dd7-d1929eb47c0e",
+							"type": "modifier",
+							"name": "One College",
+							"notes": "@College@",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "7a67c4c3-2454-43a0-acd4-aac1265bd79a",
+							"type": "modifier",
+							"name": "Solitary",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						},
+						{
+							"id": "162576be-563f-43f2-9bd3-91db2defc569",
+							"type": "modifier",
+							"name": "Song",
+							"cost": -40,
+							"affects": "levels_only",
+							"disabled": true
+						}
+					],
+					"base_points": 5,
+					"features": [
+						{
+							"type": "spell_bonus",
+							"match": "all_colleges",
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "thaumatology"
+							},
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"calc": {
+						"points": 5
+					}
+				},
+				{
+					"id": "1eabd3cf-d0a0-4bac-a376-f4e2db4cfc97",
+					"type": "trait",
+					"name": "Mimicry",
+					"reference": "B68,P60",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "2f8335bc-0a4e-4501-bdd5-e86ccf6e7911",
+							"type": "modifier",
+							"name": "Voice Library",
+							"reference": "P61",
+							"cost": 50,
+							"disabled": true
+						}
+					],
+					"base_points": 10,
+					"calc": {
+						"points": 10
+					}
+				},
+				{
+					"id": "47eb5159-ef12-413c-92db-35201d593d8e",
+					"type": "trait",
+					"name": "Rapier Wit",
+					"reference": "B79,P70",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "616e216a-3f22-40f8-aa0c-a3d997844516",
+							"type": "modifier",
+							"name": "Words of Power",
+							"reference": "P70",
+							"cost": 100,
+							"disabled": true
+						}
+					],
+					"base_points": 5,
+					"calc": {
+						"points": 5
+					}
+				},
+				{
+					"id": "d49d7cc8-4d37-4c5d-94fa-07c4d2021acc",
+					"type": "trait",
+					"name": "Speak With Animals",
+					"reference": "B87,P77",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "e9737ceb-63df-4e90-8f46-8a2e2461e45a",
+							"type": "modifier",
+							"name": "Specialized",
+							"reference": "B87",
+							"notes": "All aquatic animals",
+							"cost": -40,
+							"disabled": true
+						},
+						{
+							"id": "8bf5cc09-38bb-4683-9c19-9ec5f4e0560c",
+							"type": "modifier",
+							"name": "Specialized",
+							"reference": "B87",
+							"notes": "All land animals",
+							"cost": -40,
+							"disabled": true
+						},
+						{
+							"id": "ba3a8f45-ae28-4eeb-80fa-7350a2866078",
+							"type": "modifier",
+							"name": "Specialized",
+							"reference": "B87",
+							"notes": "@One class: Mammals, Birds, etc.@",
+							"cost": -50,
+							"disabled": true
+						},
+						{
+							"id": "41a5adf0-9be0-407f-b343-ef5827900337",
+							"type": "modifier",
+							"name": "Specialized",
+							"reference": "B87",
+							"notes": "@One family: Felines, Parrots, etc.@",
+							"cost": -60,
+							"disabled": true
+						},
+						{
+							"id": "021acdb3-1308-4a3b-b585-c5128d72650c",
+							"type": "modifier",
+							"name": "Specialized",
+							"reference": "B87",
+							"notes": "@One species: House Cats, Macaws, etc.@",
+							"cost": -80,
+							"disabled": true
+						},
+						{
+							"id": "95f53d3a-7363-4ee7-bb49-2a98cdbec3b3",
+							"type": "modifier",
+							"name": "Sapience",
+							"reference": "P77",
+							"cost": 40,
+							"disabled": true
+						},
+						{
+							"id": "3c027d72-8415-47d2-bfbc-f5237b9d096c",
+							"type": "modifier",
+							"name": "Universal",
+							"reference": "P77",
+							"cost": 20,
+							"disabled": true
+						}
+					],
+					"base_points": 25,
+					"calc": {
+						"points": 25
+					}
+				},
+				{
+					"id": "795556ea-5fcc-4b1a-a42b-052a91ddc489",
+					"type": "trait",
+					"name": "Talent (Smooth Operator)",
+					"reference": "B90,PU3:15",
+					"tags": [
+						"Advantage",
+						"Mental",
+						"Talent"
+					],
+					"modifiers": [
+						{
+							"id": "673ac6d5-88a0-46ff-9c61-a92a5908fd6d",
+							"type": "modifier",
+							"name": "Alternate Benefit",
+							"notes": "Bonus to resist covered skills",
+							"disabled": true
+						},
+						{
+							"id": "d7bc77f2-e124-4076-a8c1-e9845d9583c0",
+							"type": "modifier",
+							"name": "Alternative Cost",
+							"cost": -2,
+							"affects": "levels_only",
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"levels": 1,
+					"points_per_level": 15,
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Acting"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Carousing"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Detect Lies"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Diplomacy"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Fast-Talk"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Intimidation"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Leadership"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Panhandling"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Politics"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Public Speaking"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Savoir-Faire"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Sex Appeal"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Streetwise"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							},
+							"amount": 1,
+							"per_level": true
+						},
+						{
+							"type": "reaction_bonus",
+							"situation": "from con artists, politicians, salesmen, etc. – but only if you aren’t trying to manipulate them.",
+							"amount": 1,
+							"per_level": true
+						}
+					],
+					"can_level": true,
+					"calc": {
+						"points": 15
+					}
+				},
+				{
+					"id": "e3cb9c00-770c-4419-81e6-1fd4d374cbdd",
+					"type": "trait",
+					"name": "Tradition : Elf",
+					"base_points": 4,
+					"calc": {
+						"points": 4
+					}
+				}
+			],
+			"open": true,
+			"name": "Advantages",
+			"calc": {
+				"points": 130
+			}
+		},
+		{
+			"id": "05127706-babc-4886-bbb5-186fe7993d06",
+			"type": "trait_container",
+			"children": [
+				{
+					"id": "e48731f0-95e1-43e0-a39d-f9f58bd02d55",
+					"type": "trait",
+					"name": "Cultural Familiarity (Achazstamm)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "e8020b1d-f56e-401c-a2bb-76ebee868a9c",
+					"type": "trait",
+					"name": "Cultural Familiarity (Auelfisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points"
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 0
+					}
+				},
+				{
+					"id": "aeb5c0e3-a474-4c00-8ec8-4b6d6ec36fbe",
+					"type": "trait",
+					"name": "Cultural Familiarity (Bornisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "b7581e84-7d64-4426-a8f8-07740cf7d33f",
+					"type": "trait",
+					"name": "Cultural Familiarity (Firnelfisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "95729b9f-5ba1-45d8-ac96-5b43fa815c77",
+					"type": "trait",
+					"name": "Cultural Familiarity (Horasisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "f3bdf0e4-68b9-4eee-92ea-9d4dbc467ba1",
+					"type": "trait",
+					"name": "Cultural Familiarity (Hügelzwergisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "b0dfd9a9-e2ef-4fd1-97ae-9403d9c43f8f",
+					"type": "trait",
+					"name": "Cultural Familiarity (Mittelland-ländich)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "3a962cfe-4253-4dff-842e-72dc85dcb05a",
+					"type": "trait",
+					"name": "Cultural Familiarity (Mittelland-städlsch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "872bc929-1468-4a59-8a9e-ce3ef0586ded",
+					"type": "trait",
+					"name": "Cultural Familiarity (Orkisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "3ef6878d-7725-4323-b27a-f4205579eb8b",
+					"type": "trait",
+					"name": "Cultural Familiarity (Torwalisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "9f7eedf8-d29b-44b5-ab74-1a89a9b6a7a6",
+					"type": "trait",
+					"name": "Cultural Familiarity (Trollisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "9901621e-a005-4e90-ba0d-a5aa47e12a20",
+					"type": "trait",
+					"name": "Cultural Familiarity (Trollzackisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "94b12443-2df9-4f4e-9e01-12af98ec12a8",
+					"type": "trait",
+					"name": "Cultural Familiarity (Tulamidisch)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "c1723025-d429-4fe7-baa3-a80071d1964a",
+					"type": "trait",
+					"name": "Cultural Familiarity (Zwerg)",
+					"reference": "B23",
+					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
+							"type": "modifier",
+							"name": "Alien",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
+							"type": "modifier",
+							"name": "Native",
+							"cost": -1,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				}
+			],
+			"open": true,
+			"name": "Cultures",
+			"calc": {
+				"points": 13
+			}
+		},
+		{
+			"id": "485d9dfd-e689-4836-943e-2e051c798c0c",
+			"type": "trait_container",
+			"children": [
+				{
+					"id": "d3492447-1194-4b7a-819b-01982776680d",
+					"type": "trait",
+					"name": "Code of Honor (Chivalry)",
+					"reference": "B127",
+					"notes": "Protect any lady, and anyone weaker than yourself. Never break your word. Never ignore an insult to yourself, a lady, your liege-lord, or your faith; insults may only be wiped out by an apology or a duel (not necessarily to the death!). Never take advantage of an opponent in any way; weapons and circumstances must be equal (even in open war if the foe is also noble and chivalrous). Accept any challenge to arms from anyone of greater or equal rank.",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"base_points": -15,
+					"calc": {
+						"points": -15
+					}
+				},
+				{
+					"id": "4122d6a2-9350-4974-9886-6c0d34c4d5c3",
+					"type": "trait",
+					"name": "Curious",
+					"reference": "B129",
+					"notes": "Make a self-control roll when presented with an interesting item or situation",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"cr": 12,
+					"base_points": -5,
+					"calc": {
+						"points": -5
+					}
+				},
+				{
+					"id": "c58d5a65-8216-4ae7-9dbe-ab283eb68520",
+					"type": "trait",
+					"name": "Delusion (Can fly)",
+					"reference": "B130",
+					"notes": "Gained in game",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "ac2f3661-107e-4425-a132-9d90df099e7c",
+							"type": "modifier",
+							"name": "Minor",
+							"reference": "B130",
+							"cost": -5,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "aecc1c19-74f1-4379-b1e9-baed32ec4088",
+							"type": "modifier",
+							"name": "Major",
+							"reference": "B130",
+							"cost": -10,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "dbb776b3-9d95-4203-8e0c-9d500dae7615",
+							"type": "modifier",
+							"name": "Severe",
+							"reference": "B130",
+							"cost": -15,
+							"cost_type": "points"
+						}
+					],
+					"base_points": 15,
+					"calc": {
+						"points": 0
+					}
+				},
+				{
+					"id": "02de7cf3-93b4-4093-b34a-0889ba08bcfe",
+					"type": "trait",
+					"name": "Distinctive Features",
+					"reference": "B165",
+					"notes": "Albino",
+					"tags": [
+						"Physical",
+						"Quirk"
+					],
+					"base_points": -1,
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "disguise"
+							},
+							"amount": -1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "shadowing"
+							},
+							"amount": -1
+						},
+						{
+							"type": "conditional_modifier",
+							"situation": "to others’ attempts to identify or follow you",
+							"amount": 1
+						}
+					],
+					"calc": {
+						"points": -1
+					}
+				},
+				{
+					"id": "2bb655e5-dd21-4490-a426-85604ed26c13",
+					"type": "trait",
+					"name": "Distinctive Features",
+					"reference": "B165",
+					"notes": "Burn marks",
+					"tags": [
+						"Physical",
+						"Quirk"
+					],
+					"base_points": -1,
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "disguise"
+							},
+							"amount": -1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "shadowing"
+							},
+							"amount": -1
+						},
+						{
+							"type": "conditional_modifier",
+							"situation": "to others’ attempts to identify or follow you",
+							"amount": 1
+						}
+					],
+					"calc": {
+						"points": -1
+					}
+				},
+				{
+					"id": "a91836b5-da25-4bfe-998b-41d9e5facf0b",
+					"type": "trait",
+					"name": "Distinctive Features",
+					"reference": "B165",
+					"notes": "Crooked ears",
+					"tags": [
+						"Physical",
+						"Quirk"
+					],
+					"base_points": -1,
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "disguise"
+							},
+							"amount": -1,
+							"per_level": true
+						},
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "shadowing"
+							},
+							"amount": -1
+						},
+						{
+							"type": "conditional_modifier",
+							"situation": "to others’ attempts to identify or follow you",
+							"amount": 1
+						}
+					],
+					"calc": {
+						"points": -1
+					}
+				},
+				{
+					"id": "e9864667-9610-460b-bcd4-3924fd940333",
+					"type": "trait",
+					"name": "Indecisive",
+					"reference": "B140",
+					"notes": "Make a self-control roll whenever a choice confronts you, modified downward by 1 for each alternative you can see. If you fail, you do nothing.",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"cr": 12,
+					"base_points": -10,
+					"calc": {
+						"points": -10
+					}
+				},
+				{
+					"id": "8887c1e1-3703-4bc5-8b94-a50182bb78f5",
+					"type": "trait",
+					"name": "Overconfidence",
+					"reference": "B148",
+					"notes": "You must make a self-control roll any time the GM feels you show an unreasonable degree of caution. If you fail, you must go ahead as though you were able to handle the situation!",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"cr": 12,
+					"base_points": -5,
+					"features": [
+						{
+							"type": "reaction_bonus",
+							"situation": "from young or naive individuals who believe you are as good as you say you are",
+							"amount": 2
+						},
+						{
+							"type": "reaction_bonus",
+							"situation": "from experienced NPCs",
+							"amount": -2
+						}
+					],
+					"calc": {
+						"points": -5
+					}
+				},
+				{
+					"id": "a49c044d-6e54-4cbb-b625-474517551157",
+					"type": "trait",
+					"name": "Pacifism: Cannot Kill",
+					"reference": "B148",
+					"notes": "You may fight – you may even start fights – but you may never do anything that seems likely to kill another. This includes abandoning a wounded foe to die “on his own”! You must do your best to keep your companions from killing, too. If you do kill someone (or feel responsible for a death), you immediately suffer a nervous breakdown. Roll 3d and be totally morose and useless for that many days. During this time, you must make a Will roll to offer any sort of violence toward anyone, for any reason.",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "90acca03-6b28-4979-a04f-b2f75d4d1fa9",
+							"type": "modifier",
+							"name": "Species-Specific",
+							"reference": "UT32",
+							"cost": -80,
+							"disabled": true
+						}
+					],
+					"base_points": -15,
+					"calc": {
+						"points": -15
+					}
+				},
+				{
+					"id": "2f361e7f-c689-42bb-8571-c4e54a27f8b4",
+					"type": "trait",
+					"name": "Weirdness Magnet",
+					"reference": "B161",
+					"tags": [
+						"Disadvantage",
+						"Mental",
+						"Supernatural"
+					],
+					"modifiers": [
+						{
+							"id": "966289db-d5f0-4670-9498-27d9cbd2872e",
+							"type": "modifier",
+							"name": "Origins Magnet",
+							"reference": "SU32",
+							"disabled": true
+						}
+					],
+					"base_points": -15,
+					"features": [
+						{
+							"type": "reaction_bonus",
+							"situation": "from others who realize you are a weirdness magnet (except parapsychologists, cultists, conspiracy theorists, thrill-seekers)",
+							"amount": -2
+						}
+					],
+					"calc": {
+						"points": -15
+					}
+				},
+				{
+					"id": "99b7014c-91a9-45c4-abae-378acf5e2d5a",
+					"type": "trait",
+					"name": "Xenophilia",
+					"reference": "B162",
+					"tags": [
+						"Disadvantage",
+						"Mental"
+					],
+					"cr": 12,
+					"base_points": -10,
+					"calc": {
+						"points": -10
+					}
+				}
+			],
+			"open": true,
+			"name": "Disadvantages",
+			"calc": {
+				"points": -78
+			}
+		},
+		{
+			"id": "58a77e90-1177-482e-8678-496a16194135",
+			"type": "trait_container",
+			"children": [
+				{
+					"id": "77e3ccc7-a5c6-488f-a9e6-ec0f1cbb1dc9",
+					"type": "trait",
+					"name": "Language: Alani (Norbadisch)",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "1c9f2bf3-9c34-4b52-a20a-5d08ffafea0c",
+					"type": "trait",
+					"name": "Language: Bosparano",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 2
+					}
+				},
+				{
+					"id": "e3d559e0-77a8-41d8-beb5-b7c6b43a6d39",
+					"type": "trait",
+					"name": "Language: Garethi (Mittelreich)",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points"
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points"
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 4
+					}
+				},
+				{
+					"id": "8758eb27-ac7c-4997-9d34-7c5c1b7a1e02",
+					"type": "trait",
+					"name": "Language: Isdira",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points"
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points"
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points"
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 0
+					}
+				},
+				{
+					"id": "fb545ff8-3e0d-49a3-820a-14534665c05f",
+					"type": "trait",
+					"name": "Language: Koboldisch",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "88a93382-8768-43d1-a321-684407b4672c",
+					"type": "trait",
+					"name": "Language: Orkish (Oloarkh)",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "b55da9b2-d1c2-4186-8b70-15ff4197e17d",
+					"type": "trait",
+					"name": "Language: Orkish (Ologhaijan)",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "aba58ffc-c394-494e-9bd3-df84d15b6209",
+					"type": "trait",
+					"name": "Language: Rabensprache",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "36f28930-7ccb-4cbb-94f8-340885275350",
+					"type": "trait",
+					"name": "Language: Torwalsch",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points"
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points"
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 4
+					}
+				},
+				{
+					"id": "506f3bd5-a7c2-48ae-9105-478ab127fcd5",
+					"type": "trait",
+					"name": "Language: Tulamidya",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points"
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points"
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 4
+					}
+				},
+				{
+					"id": "1a56e2fd-35d3-4a84-9b53-8fe604de9db6",
+					"type": "trait",
+					"name": "Language: Zwergisch",
+					"reference": "B24",
+					"notes": "With Language Talent",
+					"tags": [
+						"Advantage",
+						"Language",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "6e350dac-03e7-454b-aae0-910e3480d549",
+							"type": "modifier",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -4,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "8b45dbdd-df61-46c2-ac1d-a4512c1b6f87",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "f1b65fd7-b774-4c35-89c8-4bcae8e38203",
+							"type": "modifier",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "4e5950f0-3680-4091-9cbb-ad9a6bdf6e58",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "5a815059-e937-4dce-b933-c8b9b83c9a3e",
+							"type": "modifier",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Language Talent"
+								}
+							}
+						]
+					},
+					"calc": {
+						"points": 1
+					}
+				}
+			],
+			"open": true,
+			"name": "Languages",
+			"calc": {
+				"points": 20
+			}
+		},
+		{
 			"id": "72545fb6-dfd7-4329-9d6f-d33f5e976458",
 			"type": "trait",
 			"name": "Natural Attacks",
@@ -740,10 +3051,1739 @@
 			"calc": {
 				"points": 0
 			}
+		},
+		{
+			"id": "b2ca2853-2ec5-4043-b150-78a2789e9bdc",
+			"type": "trait_container",
+			"children": [
+				{
+					"id": "4297548f-d9f8-4759-a1e0-efab92b6601d",
+					"type": "trait",
+					"name": "Alarm Clock",
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				},
+				{
+					"id": "82da5a2d-ebc8-413d-bd1c-ee60678444d6",
+					"type": "trait",
+					"name": "Honest Face",
+					"base_points": 1,
+					"calc": {
+						"points": 1
+					}
+				}
+			],
+			"open": true,
+			"name": "Perks",
+			"calc": {
+				"points": 2
+			}
+		},
+		{
+			"id": "f09e0479-7343-463c-b010-02509065fc40",
+			"type": "trait_container",
+			"children": [
+				{
+					"id": "504e08cb-c028-4985-8620-a62f0bb572d3",
+					"type": "trait",
+					"name": "Admires Professionalisim",
+					"reference": "B162",
+					"tags": [
+						"Mental",
+						"Quirk"
+					],
+					"base_points": -1,
+					"calc": {
+						"points": -1
+					}
+				},
+				{
+					"id": "53076be4-c6c9-4cee-9383-987e18813bc3",
+					"type": "trait",
+					"name": "Comments about things that happen during the game",
+					"reference": "B162",
+					"tags": [
+						"Mental",
+						"Quirk"
+					],
+					"base_points": -1,
+					"calc": {
+						"points": -1
+					}
+				},
+				{
+					"id": "5bd55f81-b272-44cf-b04a-c57daca803df",
+					"type": "trait",
+					"name": "Laughs at own jokes",
+					"reference": "B162",
+					"tags": [
+						"Mental",
+						"Quirk"
+					],
+					"base_points": -1,
+					"calc": {
+						"points": -1
+					}
+				},
+				{
+					"id": "e48d2fde-4bb2-466f-97b2-1914ed8c2ab3",
+					"type": "trait",
+					"name": "Looks around in a certain way",
+					"reference": "B162",
+					"tags": [
+						"Mental",
+						"Quirk"
+					],
+					"base_points": -1,
+					"calc": {
+						"points": -1
+					}
+				},
+				{
+					"id": "ab3f22c9-8bfe-40ba-ab9f-30c17fc7bdad",
+					"type": "trait",
+					"name": "Remembers everyones birthday",
+					"reference": "B162",
+					"tags": [
+						"Mental",
+						"Quirk"
+					],
+					"base_points": -1,
+					"calc": {
+						"points": -1
+					}
+				}
+			],
+			"open": true,
+			"name": "Quirks",
+			"calc": {
+				"points": -5
+			}
+		}
+	],
+	"skills": [
+		{
+			"id": "9274efc9-0da7-4b8f-90bb-6aba656971fa",
+			"type": "skill",
+			"name": "Acting",
+			"reference": "B174",
+			"tags": [
+				"Social",
+				"Spy"
+			],
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Performance",
+				"modifier": -2,
+				"level": 11,
+				"adjusted_level": 11,
+				"points": -11
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Performance",
+					"modifier": -2
+				},
+				{
+					"type": "skill",
+					"name": "Public Speaking",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 14,
+				"rsl": "IQ+0"
+			}
+		},
+		{
+			"id": "eb22aaf5-12d9-404f-8a2d-0c514133782f",
+			"type": "skill",
+			"name": "Animal Handling",
+			"reference": "B175",
+			"tags": [
+				"Animal"
+			],
+			"specialization": "Big Cats",
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "7e9294f9-cac5-448c-8cf1-dd6c55d4a90b",
+			"type": "skill",
+			"name": "Animal Handling",
+			"reference": "B175",
+			"tags": [
+				"Animal"
+			],
+			"specialization": "Dogs",
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "f6e71417-9d6d-432a-b10c-a75eee6ded02",
+			"type": "skill",
+			"name": "Animal Handling",
+			"reference": "B175",
+			"tags": [
+				"Animal"
+			],
+			"specialization": "Equines",
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "c6e818d7-29f2-48bf-84f9-c38d407ac444",
+			"type": "skill",
+			"name": "Body Language",
+			"reference": "B181",
+			"tags": [
+				"Police",
+				"Social",
+				"Spy"
+			],
+			"difficulty": "per/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Psychology",
+				"modifier": -4,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
+			"defaults": [
+				{
+					"type": "skill",
+					"name": "Detect Lies",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Psychology",
+					"modifier": -4
+				}
+			],
+			"calc": {
+				"level": 11,
+				"rsl": "Per-1"
+			}
+		},
+		{
+			"id": "63ceee70-27e5-4c6c-9272-a8a06f2c70fa",
+			"type": "skill",
+			"name": "Carousing",
+			"reference": "B183",
+			"tags": [
+				"Criminal",
+				"Social",
+				"Street"
+			],
+			"difficulty": "ht/e",
+			"points": 1,
+			"defaulted_from": {
+				"type": "ht",
+				"modifier": -4,
+				"level": 6,
+				"adjusted_level": 6,
+				"points": -6
+			},
+			"defaults": [
+				{
+					"type": "ht",
+					"modifier": -4
+				}
+			],
+			"calc": {
+				"level": 11,
+				"rsl": "HT+1"
+			}
+		},
+		{
+			"id": "12314f91-2e7e-4136-b2bc-0e0937b3f5ff",
+			"type": "skill",
+			"name": "Connoisseur",
+			"reference": "B185,MA56",
+			"tags": [
+				"Arts",
+				"Entertainment",
+				"Knowledge",
+				"Social"
+			],
+			"specialization": "Literature",
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "skill",
+					"name": "Literature",
+					"modifier": -3
+				},
+				{
+					"type": "skill",
+					"name": "Poetry",
+					"modifier": -3
+				},
+				{
+					"type": "skill",
+					"name": "Writing",
+					"modifier": -3
+				},
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "28893bea-34f7-4995-9a6e-e36d63db6f70",
+			"type": "skill",
+			"name": "Connoisseur",
+			"reference": "B185,MA56",
+			"tags": [
+				"Arts",
+				"Entertainment",
+				"Knowledge",
+				"Social"
+			],
+			"specialization": "Music",
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Musical Composition",
+				"modifier": -3,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "skill",
+					"name": "Group Performance",
+					"specialization": "Conducting",
+					"modifier": -3
+				},
+				{
+					"type": "skill",
+					"name": "Musical Composition",
+					"modifier": -3
+				},
+				{
+					"type": "skill",
+					"name": "Musical Instrument",
+					"modifier": -3
+				},
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "7a442447-fde8-46ec-8aec-a35f9ecb8887",
+			"type": "skill",
+			"name": "Counterfeiting",
+			"reference": "B185",
+			"tags": [
+				"Criminal",
+				"Street"
+			],
+			"tech_level": "3",
+			"difficulty": "iq/h",
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Forgery",
+				"modifier": -2,
+				"level": 10,
+				"adjusted_level": 10,
+				"points": -10
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Forgery",
+					"modifier": -2
+				}
+			],
+			"calc": {
+				"level": 12,
+				"rsl": "IQ-2"
+			}
+		},
+		{
+			"id": "a5e7b23e-cbee-4417-8d20-e15b7c1c1fad",
+			"type": "skill",
+			"name": "Detect Lies",
+			"reference": "B187",
+			"tags": [
+				"Police",
+				"Social",
+				"Spy"
+			],
+			"difficulty": "per/h",
+			"points": 2,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Psychology",
+				"modifier": -4,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
+			"defaults": [
+				{
+					"type": "per",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Body Language",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Psychology",
+					"modifier": -4
+				}
+			],
+			"calc": {
+				"level": 12,
+				"rsl": "Per+0"
+			}
+		},
+		{
+			"id": "aca2c392-1553-455f-9cac-4d908e60cc91",
+			"type": "skill",
+			"name": "Diplomacy",
+			"reference": "B187",
+			"tags": [
+				"Business",
+				"Police",
+				"Social"
+			],
+			"difficulty": "iq/h",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Politics",
+					"modifier": -6
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "84a77f08-cf7e-4124-ae02-bdef49ae2746",
+			"type": "skill",
+			"name": "Disguise",
+			"reference": "B187",
+			"tags": [
+				"Criminal",
+				"Spy",
+				"Street"
+			],
+			"specialization": "Human",
+			"tech_level": "3",
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Makeup",
+					"modifier": -3
+				}
+			],
+			"calc": {
+				"level": 14,
+				"rsl": "IQ+0"
+			}
+		},
+		{
+			"id": "0ee4d9e0-1e8b-4a47-aa18-41dda9db7764",
+			"type": "skill",
+			"name": "Fast-Talk",
+			"reference": "B195",
+			"tags": [
+				"Criminal",
+				"Social",
+				"Spy",
+				"Street"
+			],
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Acting",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 14,
+				"rsl": "IQ+0"
+			}
+		},
+		{
+			"id": "2261f59e-84c6-422d-b19b-6e214beaa085",
+			"type": "skill",
+			"name": "Forgery",
+			"reference": "B196",
+			"tags": [
+				"Criminal",
+				"Spy",
+				"Street"
+			],
+			"tech_level": "3",
+			"difficulty": "iq/h",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Counterfeiting",
+					"modifier": -2
+				}
+			],
+			"calc": {
+				"level": 12,
+				"rsl": "IQ-2"
+			}
+		},
+		{
+			"id": "3c1d0986-fe92-4798-a3b7-089ded791385",
+			"type": "skill",
+			"name": "History",
+			"reference": "B200",
+			"tags": [
+				"Humanities",
+				"Social Sciences"
+			],
+			"specialization": "Aventurien",
+			"difficulty": "iq/h",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -6
+				}
+			],
+			"calc": {
+				"level": 12,
+				"rsl": "IQ-2"
+			}
+		},
+		{
+			"id": "ed12c116-04e7-4966-b593-12f7c5d8d179",
+			"type": "skill",
+			"name": "Linguistics",
+			"reference": "B205",
+			"tags": [
+				"Humanities",
+				"Social Sciences"
+			],
+			"difficulty": "iq/h",
+			"points": 1,
+			"calc": {
+				"level": 12,
+				"rsl": "IQ-2"
+			}
+		},
+		{
+			"id": "a0822457-06c7-4eb7-a68f-d9c0018f0364",
+			"type": "skill",
+			"name": "Lip Reading",
+			"reference": "B205",
+			"tags": [
+				"Spy"
+			],
+			"difficulty": "per/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "per",
+				"modifier": -10,
+				"level": 2,
+				"adjusted_level": 2,
+				"points": -2
+			},
+			"defaults": [
+				{
+					"type": "per",
+					"modifier": -10
+				}
+			],
+			"calc": {
+				"level": 11,
+				"rsl": "Per-1"
+			}
+		},
+		{
+			"id": "2b53ba92-a62c-4304-a0e3-c79b89fc5c37",
+			"type": "skill",
+			"name": "Mimicry",
+			"reference": "B210",
+			"tags": [
+				"Arts",
+				"Entertainment"
+			],
+			"specialization": "Speech",
+			"difficulty": "iq/h",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Acting",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Linguistics",
+					"modifier": -4
+				}
+			],
+			"calc": {
+				"level": 12,
+				"rsl": "IQ-2"
+			}
+		},
+		{
+			"id": "5b529a48-1ba1-469a-a4dd-754d33bfb872",
+			"type": "skill",
+			"name": "Musical Composition",
+			"reference": "B210",
+			"tags": [
+				"Arts",
+				"Entertainment"
+			],
+			"difficulty": "iq/h",
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Musical Instrument",
+				"specialization": "Flute",
+				"modifier": -2,
+				"level": 10,
+				"adjusted_level": 10,
+				"points": -10
+			},
+			"defaults": [
+				{
+					"type": "skill",
+					"name": "Musical Instrument",
+					"modifier": -2
+				},
+				{
+					"type": "skill",
+					"name": "Poetry",
+					"modifier": -2
+				}
+			],
+			"calc": {
+				"level": 12,
+				"rsl": "IQ-2"
+			}
+		},
+		{
+			"id": "83df37a1-185b-43a4-9088-b4d249dad215",
+			"type": "skill",
+			"name": "Musical Instrument",
+			"reference": "B211",
+			"tags": [
+				"Arts",
+				"Entertainment"
+			],
+			"specialization": "Flute",
+			"difficulty": "iq/h",
+			"points": 1,
+			"calc": {
+				"level": 12,
+				"rsl": "IQ-2"
+			}
+		},
+		{
+			"id": "dbb9af5f-cd2d-4c49-9db2-39dc976bea7c",
+			"type": "skill",
+			"name": "Observation",
+			"reference": "B211",
+			"tags": [
+				"Criminal",
+				"Military",
+				"Police",
+				"Spy",
+				"Street"
+			],
+			"difficulty": "per/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Shadowing",
+				"modifier": -5,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
+			"defaults": [
+				{
+					"type": "per",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Shadowing",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 11,
+				"rsl": "Per-1"
+			}
+		},
+		{
+			"id": "20dfd7ba-f4e0-46a1-ad79-ccdbd3f52e72",
+			"type": "skill",
+			"name": "Performance",
+			"reference": "B212",
+			"tags": [
+				"Arts",
+				"Entertainment"
+			],
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Public Speaking",
+				"modifier": -2,
+				"level": 11,
+				"adjusted_level": 11,
+				"points": -11
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Acting",
+					"modifier": -2
+				},
+				{
+					"type": "skill",
+					"name": "Public Speaking",
+					"modifier": -2
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "ff6f5b5e-1f19-4780-b024-2dcbdceb6427",
+			"type": "skill",
+			"name": "Politics",
+			"reference": "B215",
+			"tags": [
+				"Business",
+				"Social"
+			],
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Diplomacy",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 14,
+				"rsl": "IQ+0"
+			}
+		},
+		{
+			"id": "5b1b07d5-cd3a-4a7d-b26f-c5284678cacd",
+			"type": "skill",
+			"name": "Psychology",
+			"reference": "B216",
+			"tags": [
+				"Humanities",
+				"Social Sciences"
+			],
+			"difficulty": "iq/h",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Sociology",
+					"modifier": -4
+				}
+			],
+			"calc": {
+				"level": 12,
+				"rsl": "IQ-2"
+			}
+		},
+		{
+			"id": "868cbc62-a9a1-4a73-8893-2e8757e8a44c",
+			"type": "skill",
+			"name": "Public Speaking",
+			"reference": "B216",
+			"tags": [
+				"Business",
+				"Scholarly",
+				"Social"
+			],
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Acting",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Performance",
+					"modifier": -2
+				},
+				{
+					"type": "skill",
+					"name": "Politics",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 15,
+				"rsl": "IQ+1"
+			}
+		},
+		{
+			"id": "5fa108d1-aa4d-472f-9fef-97f20f24280b",
+			"type": "skill",
+			"name": "Research",
+			"reference": "B217",
+			"tags": [
+				"Scholarly",
+				"Spy"
+			],
+			"tech_level": "3",
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Writing",
+					"modifier": -3
+				}
+			],
+			"prereqs": {
+				"type": "prereq_list",
+				"all": true,
+				"prereqs": [
+					{
+						"type": "prereq_list",
+						"all": true,
+						"when_tl": {
+							"compare": "at_least",
+							"qualifier": 8
+						},
+						"prereqs": [
+							{
+								"type": "skill_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Computer Operation"
+								}
+							}
+						]
+					},
+					{
+						"type": "prereq_list",
+						"all": false,
+						"when_tl": {
+							"compare": "at_most",
+							"qualifier": 4
+						},
+						"prereqs": [
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "starts_with",
+									"qualifier": "Language"
+								},
+								"notes": {
+									"compare": "contains",
+									"qualifier": "Written (Native"
+								}
+							},
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "starts_with",
+									"qualifier": "Language"
+								},
+								"notes": {
+									"compare": "contains",
+									"qualifier": "Written (Accented)"
+								}
+							},
+							{
+								"type": "trait_prereq",
+								"has": true,
+								"name": {
+									"compare": "starts_with",
+									"qualifier": "Language"
+								},
+								"notes": {
+									"compare": "contains",
+									"qualifier": "Written (Broken)"
+								}
+							}
+						]
+					}
+				]
+			},
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "8a995c87-7d22-46ca-a9b7-042714b9ba85",
+			"type": "skill",
+			"name": "Savoir-Faire",
+			"reference": "B218,MA59",
+			"tags": [
+				"Business",
+				"Knowledge",
+				"Social"
+			],
+			"specialization": "High Society",
+			"difficulty": "iq/e",
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Savoir-Faire",
+				"specialization": "Servant",
+				"modifier": -2,
+				"level": 12,
+				"adjusted_level": 12,
+				"points": -12
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Savoir-Faire",
+					"specialization": "Servant",
+					"modifier": -2
+				}
+			],
+			"calc": {
+				"level": 15,
+				"rsl": "IQ+1"
+			}
+		},
+		{
+			"id": "90928070-6fa0-4ef3-82d5-d20631bd6ddf",
+			"type": "skill",
+			"name": "Savoir-Faire",
+			"reference": "B218,MA59",
+			"tags": [
+				"Knowledge",
+				"Social"
+			],
+			"specialization": "Jester",
+			"difficulty": "iq/e",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -4,
+				"level": 10,
+				"adjusted_level": 10,
+				"points": -10
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Games",
+					"modifier": -3
+				}
+			],
+			"calc": {
+				"level": 15,
+				"rsl": "IQ+1"
+			}
+		},
+		{
+			"id": "30835e58-e6c3-4192-b8bc-28961328387f",
+			"type": "skill",
+			"name": "Savoir-Faire",
+			"reference": "B218,MA59",
+			"tags": [
+				"Knowledge",
+				"Social"
+			],
+			"specialization": "Magical",
+			"difficulty": "iq/e",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -4,
+				"level": 10,
+				"adjusted_level": 10,
+				"points": -10
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Games",
+					"modifier": -3
+				}
+			],
+			"calc": {
+				"level": 15,
+				"rsl": "IQ+1"
+			}
+		},
+		{
+			"id": "93ddc3e9-8993-4e30-a30f-9d4d3cb128fb",
+			"type": "skill",
+			"name": "Savoir-Faire",
+			"reference": "B218,MA59",
+			"tags": [
+				"Everyman",
+				"Knowledge",
+				"Social"
+			],
+			"specialization": "Servant",
+			"difficulty": "iq/e",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -4,
+				"level": 10,
+				"adjusted_level": 10,
+				"points": -10
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Savoir-Faire",
+					"specialization": "High Society",
+					"modifier": -2
+				}
+			],
+			"calc": {
+				"level": 15,
+				"rsl": "IQ+1"
+			}
+		},
+		{
+			"id": "e8770701-64a7-4339-bd9b-ee1478ea5ea9",
+			"type": "skill",
+			"name": "Shadowing",
+			"reference": "B219",
+			"tags": [
+				"Criminal",
+				"Police",
+				"Spy",
+				"Street"
+			],
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Observation",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Stealth",
+					"modifier": -4
+				}
+			],
+			"calc": {
+				"level": 10,
+				"rsl": "IQ-4"
+			}
+		},
+		{
+			"id": "382cd2b9-799e-4a9c-8a04-0d1e3e151ade",
+			"type": "skill",
+			"name": "Teaching",
+			"reference": "B224",
+			"tags": [
+				"Scholarly",
+				"Social"
+			],
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "c1768043-8dfe-4c1b-84c6-cb5fbbcaba3a",
+			"type": "skill",
+			"name": "Teamster",
+			"reference": "B225",
+			"tags": [
+				"Animal",
+				"Vehicle"
+			],
+			"specialization": "Equines",
+			"difficulty": "iq/a",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Animal Handling",
+					"specialization": "Equines",
+					"modifier": -4
+				},
+				{
+					"type": "skill",
+					"name": "Riding",
+					"specialization": "Equines",
+					"modifier": -2
+				}
+			],
+			"calc": {
+				"level": 13,
+				"rsl": "IQ-1"
+			}
+		},
+		{
+			"id": "594fabe2-45f2-45ad-9a0f-05c0bc5a5a2f",
+			"type": "skill",
+			"name": "Thaumatology",
+			"reference": "B225",
+			"tags": [
+				"Magical",
+				"Occult"
+			],
+			"difficulty": "iq/vh",
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -7,
+				"level": 7,
+				"adjusted_level": 7,
+				"points": -7
+			},
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -7
+				}
+			],
+			"calc": {
+				"level": 11,
+				"rsl": "IQ-3"
+			}
+		}
+	],
+	"spells": [
+		{
+			"id": "6a1a9c1e-7eb0-4645-9ab0-2a74a6bc9795",
+			"type": "spell",
+			"name": "Adlerauge Luchsenohr",
+			"reference": "LC15",
+			"difficulty": "mb/a",
+			"casting_cost": "4 Asp",
+			"casting_time": "1 sec",
+			"duration": "1 Round",
+			"points": 1,
+			"calc": {
+				"level": 11,
+				"rsl": "MB-1"
+			}
+		},
+		{
+			"id": "e0a3c7f7-b206-4193-aea1-b52b51cb8089",
+			"type": "spell",
+			"name": "Armatrutz",
+			"reference": "LC28",
+			"difficulty": "mb/a",
+			"casting_cost": "min. 4 Asp. (RS * zusätzlicher RS - ZfP*/2)",
+			"casting_time": "1 sec",
+			"duration": "Max 1 Round",
+			"points": 1,
+			"calc": {
+				"level": 11,
+				"rsl": "MB-1"
+			}
+		},
+		{
+			"id": "222746fd-012e-4d7f-910b-1ac5e64f7b3e",
+			"type": "spell",
+			"name": "Attributo",
+			"reference": "LC30",
+			"notes": "Eigenschaft + ZfP*/3",
+			"difficulty": "mb/a",
+			"casting_cost": "7 Asp (Sch 5)",
+			"casting_time": "1 sec",
+			"duration": "1 Hour",
+			"points": 1,
+			"calc": {
+				"level": 11,
+				"rsl": "MB-1"
+			}
+		},
+		{
+			"id": "2e9bf9cd-536d-41bc-8f2c-bfc3fa318b1b",
+			"type": "spell",
+			"name": "Balsam Salabunde",
+			"reference": "LC37",
+			"difficulty": "mb/h",
+			"casting_cost": "1 AsP pro LeP, min 5Asp max ZfW * 2 Lep",
+			"casting_time": "min 1s",
+			"duration": "Instant",
+			"points": 8,
+			"calc": {
+				"level": 13,
+				"rsl": "MB+1"
+			}
+		},
+		{
+			"id": "83f6aceb-c460-4d59-bd1f-498248eb01f5",
+			"type": "spell",
+			"name": "Band und Fessel",
+			"reference": "LC38",
+			"difficulty": "mb/h",
+			"power_source": "Arcane",
+			"spell_class": "Regular",
+			"casting_cost": "9AsP (Borb 1W20 AsP oder 1W20 LeP)",
+			"casting_time": "1 sec + 2 pro Schritt Radius",
+			"duration": "ZfP* Stunden",
+			"points": 2,
+			"calc": {
+				"level": 11,
+				"rsl": "MB-1"
+			}
+		},
+		{
+			"id": "139be975-0c5a-46bc-992d-29cd5e0277f5",
+			"type": "spell",
+			"name": "Bannbaladin",
+			"reference": "LC39",
+			"difficulty": "mb/a",
+			"casting_cost": "7AsP",
+			"casting_time": "1 sec",
+			"duration": "ZfP* Spielrunden",
+			"points": 1,
+			"calc": {
+				"level": 11,
+				"rsl": "MB-1"
+			}
+		},
+		{
+			"id": "f3e48c6a-29d2-4946-b7b6-471f62b403d5",
+			"type": "spell",
+			"name": "Bewegung Stören",
+			"reference": "LC43",
+			"notes": "Reichweite ZfW * 7 Schritt",
+			"difficulty": "mb/h",
+			"casting_cost": "8 AsP + 1/5 ",
+			"casting_time": "1 sec",
+			"duration": "Instant",
+			"points": 4,
+			"calc": {
+				"level": 12,
+				"rsl": "MB+0"
+			}
+		},
+		{
+			"id": "3683506e-0335-4f41-bcac-9307963545aa",
+			"type": "spell",
+			"name": "Chamelioni Mimikry",
+			"reference": "LC54",
+			"difficulty": "mb/h",
+			"power_source": "Arcane",
+			"spell_class": "Regular",
+			"resist": "Perception +ZfP*/2 + 7 (+1 für jede 3 Schritte) / Illusion Auflösen",
+			"casting_cost": "4AsP",
+			"casting_time": "1 sec",
+			"duration": "ZfP* * 10KR",
+			"points": 1,
+			"calc": {
+				"level": 10,
+				"rsl": "MB-2"
+			}
+		},
+		{
+			"id": "a3f86a9e-7238-4539-ab05-0171927b78f9",
+			"type": "spell",
+			"name": "Exposami Lebenskraft",
+			"reference": "LC83",
+			"difficulty": "mp/h",
+			"power_source": "Arcane",
+			"spell_class": "Regular",
+			"casting_cost": "4 AsP",
+			"casting_time": "3s",
+			"duration": "Instant",
+			"points": 1,
+			"calc": {
+				"level": 12,
+				"rsl": "MP-2"
+			}
+		},
+		{
+			"id": "ba140aae-ac2b-4fd6-9c7e-9abde43963a4",
+			"type": "spell",
+			"name": "Flim Flam Funkel",
+			"reference": "LR87",
+			"notes": "Helligkeit: ZfP*",
+			"difficulty": "mb/e",
+			"casting_cost": "1 AsP pro Spielrunde",
+			"casting_time": "1 sec",
+			"duration": "AsP einsatz",
+			"points": 2,
+			"calc": {
+				"level": 13,
+				"rsl": "MB+1"
+			}
+		},
+		{
+			"id": "2b7f5639-22a3-4afa-9f27-ac47fd26d225",
+			"type": "spell",
+			"name": "Motoricus Geisteshand",
+			"reference": "LC181",
+			"notes": "Geschwindigkeit ZfP*/2",
+			"difficulty": "mb/h",
+			"casting_cost": "1AsP pro 5  Stein min. 3 AsP",
+			"casting_time": "1 sec",
+			"duration": "Instant",
+			"points": 1,
+			"calc": {
+				"level": 10,
+				"rsl": "MB-2"
+			}
+		}
+	],
+	"equipment": [
+		{
+			"id": "16238bd8-eb7a-4be2-9714-c47f5002f933",
+			"type": "equipment",
+			"description": "Disguise Kit",
+			"reference": "B289",
+			"tech_level": "5",
+			"tags": [
+				"Law-Enforcement",
+				"Spy Gear",
+				"Thief"
+			],
+			"quantity": 1,
+			"value": 200,
+			"weight": "10 lb",
+			"features": [
+				{
+					"type": "skill_bonus",
+					"selection_type": "skills_with_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Disguise"
+					},
+					"amount": 1
+				}
+			],
+			"equipped": true,
+			"calc": {
+				"extended_value": 200,
+				"extended_weight": "10 lb"
+			}
+		},
+		{
+			"id": "af70574a-48a0-45fd-a2df-38da21248ff4",
+			"type": "equipment",
+			"description": "Large Knife",
+			"reference": "B272",
+			"tech_level": "0",
+			"tags": [
+				"Melee Weapon",
+				"Missile Weapon"
+			],
+			"quantity": 1,
+			"value": 40,
+			"weight": "1 lb",
+			"weapons": [
+				{
+					"id": "6fe06673-89a4-4f1a-a415-51ae243c9cb0",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-2"
+					},
+					"strength": "6",
+					"usage": "Swung",
+					"reach": "C,1",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Sword!"
+						}
+					],
+					"calc": {
+						"level": 5,
+						"damage": "1d-3 cut",
+						"parry": "4"
+					}
+				},
+				{
+					"id": "3f42a716-3051-497f-b287-912095dffcd5",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr"
+					},
+					"strength": "6",
+					"usage": "Thrust",
+					"reach": "C",
+					"parry": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Sword!"
+						}
+					],
+					"calc": {
+						"level": 5,
+						"damage": "1d-2 imp",
+						"parry": "4"
+					}
+				},
+				{
+					"id": "ce852649-71ad-4350-b4c7-7d71931c4971",
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr"
+					},
+					"strength": "6",
+					"usage": "Thrown",
+					"range": "x0.8/x1.5",
+					"rate_of_fire": "1",
+					"shots": "T",
+					"bulk": "-2",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Thrown Weapon",
+							"specialization": "Knife"
+						}
+					],
+					"calc": {
+						"level": 5,
+						"damage": "1d-2 imp",
+						"range": "7/13"
+					}
+				}
+			],
+			"equipped": true,
+			"calc": {
+				"extended_value": 40,
+				"extended_weight": "1 lb"
+			}
 		}
 	],
 	"created_date": "2024-06-08T06:41:01+02:00",
-	"modified_date": "2024-06-08T06:45:08+02:00",
+	"modified_date": "2024-07-13T06:35:30+02:00",
 	"calc": {
 		"swing": "1d-1",
 		"thrust": "1d-2",
