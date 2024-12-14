@@ -1,9 +1,13 @@
 {
-	"type": "character",
-	"version": 4,
-	"id": "d348d987-70ac-4c7c-b44c-a49fcdd17177",
-	"total_points": 250,
+	"version": 5,
+	"id": "ATgohqpa73gg8TmMM",
+	"total_points": 253,
 	"points_record": [
+		{
+			"when": "2024-12-14T13:47:36+01:00",
+			"points": 3,
+			"reason": "Campain"
+		},
 		{
 			"when": "2024-06-07T22:58:18+02:00",
 			"points": 50,
@@ -251,7 +255,6 @@
 					"table_name": "Eyes",
 					"hit_penalty": -9,
 					"description": "An attack that misses by 1 hits the torso instead. Only\nimpaling (imp), piercing (pi-, pi, pi+, pi++), and\ntight-beam burning (burn) attacks can target the eye – and\nonly from the front or sides. Injury over HP÷10 blinds the\neye. Otherwise, treat as skull, but without the extra DR!",
-					"notes": "",
 					"calc": {
 						"roll_range": "-",
 						"dr": {
@@ -267,7 +270,6 @@
 					"hit_penalty": -7,
 					"dr_bonus": 2,
 					"description": "An attack that misses by 1 hits the torso instead. Wounding\nmodifier is x4. Knockdown rolls are at -10. Critical hits\nuse the Critical Head Blow Table (B556). Exception: These\nspecial effects do not apply to toxic (tox) damage.",
-					"notes": "",
 					"calc": {
 						"roll_range": "3-4",
 						"dr": {
@@ -282,7 +284,6 @@
 					"slots": 1,
 					"hit_penalty": -5,
 					"description": "An attack that misses by 1 hits the torso instead. Jaw,\ncheeks, nose, ears, etc. If the target has an open-faced\nhelmet, ignore its DR. Knockdown rolls are at -5. Critical\nhits use the Critical Head Blow Table (B556). Corrosion\n(cor) damage gets a x1½ wounding modifier, and if it\ninflicts a major wound, it also blinds one eye (both eyes on\ndamage over full HP). Random attacks from behind hit the\nskull instead.",
-					"notes": "",
 					"calc": {
 						"roll_range": "5",
 						"dr": {
@@ -297,7 +298,6 @@
 					"slots": 2,
 					"hit_penalty": -2,
 					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost.",
-					"notes": "",
 					"calc": {
 						"roll_range": "6-7",
 						"dr": {
@@ -312,7 +312,6 @@
 					"slots": 1,
 					"hit_penalty": -2,
 					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost. If holding a shield,\ndouble the penalty to hit: -4 for shield arm instead of -2.",
-					"notes": "",
 					"calc": {
 						"roll_range": "8",
 						"dr": {
@@ -325,7 +324,6 @@
 					"choice_name": "Torso",
 					"table_name": "Torso",
 					"slots": 2,
-					"notes": "",
 					"calc": {
 						"roll_range": "9-10",
 						"dr": {
@@ -340,7 +338,6 @@
 					"slots": 1,
 					"hit_penalty": -3,
 					"description": "An attack that misses by 1 hits the torso instead. Human\nmales and the males of similar species suffer double shock\nfrom crushing (cr) damage, and get -5 to knockdown rolls.\nOtherwise, treat as a torso hit.",
-					"notes": "",
 					"calc": {
 						"roll_range": "11",
 						"dr": {
@@ -355,7 +352,6 @@
 					"slots": 1,
 					"hit_penalty": -2,
 					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost. If holding a shield,\ndouble the penalty to hit: -4 for shield arm instead of -2.",
-					"notes": "",
 					"calc": {
 						"roll_range": "12",
 						"dr": {
@@ -370,7 +366,6 @@
 					"slots": 2,
 					"hit_penalty": -2,
 					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ½ HP from one blow) cripples the limb.\nDamage beyond that threshold is lost.",
-					"notes": "",
 					"calc": {
 						"roll_range": "13-14",
 						"dr": {
@@ -385,7 +380,6 @@
 					"slots": 1,
 					"hit_penalty": -4,
 					"description": "If holding a shield, double the penalty to hit: -8 for\nshield hand instead of -4. Reduce the wounding multiplier of\nlarge piercing (pi+), huge piercing (pi++), and impaling\n(imp) damage to x1. Any major wound (loss of over ⅓ HP\nfrom one blow) cripples the extremity. Damage beyond that\nthreshold is lost.",
-					"notes": "",
 					"calc": {
 						"roll_range": "15",
 						"dr": {
@@ -400,7 +394,6 @@
 					"slots": 1,
 					"hit_penalty": -4,
 					"description": "Reduce the wounding multiplier of large piercing (pi+), huge\npiercing (pi++), and impaling (imp) damage to x1. Any major\nwound (loss of over ⅓ HP from one blow) cripples the\nextremity. Damage beyond that threshold is lost.",
-					"notes": "",
 					"calc": {
 						"roll_range": "16",
 						"dr": {
@@ -415,7 +408,6 @@
 					"slots": 2,
 					"hit_penalty": -5,
 					"description": "An attack that misses by 1 hits the torso instead. Neck and\nthroat. Increase the wounding multiplier of crushing (cr)\nand corrosion (cor) attacks to x1½, and that of cutting\n(cut) damage to x2. At the GM’s option, anyone killed by a\ncutting (cut) blow to the neck is decapitated!",
-					"notes": "",
 					"calc": {
 						"roll_range": "17-18",
 						"dr": {
@@ -429,7 +421,6 @@
 					"table_name": "Vitals",
 					"hit_penalty": -3,
 					"description": "An attack that misses by 1 hits the torso instead. Heart,\nlungs, kidneys, etc. Increase the wounding modifier for an\nimpaling (imp) or any piercing (pi-, pi, pi+, pi++) attack\nto x3. Increase the wounding modifier for a tight-beam\nburning (burn) attack to x2. Other attacks cannot target the\nvitals.",
-					"notes": "",
 					"calc": {
 						"roll_range": "-",
 						"dr": {
@@ -632,12 +623,11 @@
 	],
 	"traits": [
 		{
-			"id": "fbf48799-eb35-41b4-96f5-996ad7f72691",
-			"type": "trait_container",
+			"id": "TBhLnZqkfWeDhsHBp",
+			"name": "Languages and Cultures",
 			"children": [
 				{
-					"id": "3eb634aa-4e82-4c9a-aae7-21a17e27a60a",
-					"type": "trait",
+					"id": "tIWo3CEiHef22DuLe",
 					"name": "Language: Scharidisch",
 					"reference": "B24",
 					"tags": [
@@ -645,92 +635,6 @@
 						"Language",
 						"Mental"
 					],
-					"modifiers": [
-						{
-							"id": "ff972d9a-b925-4895-a489-f3d14999074d",
-							"type": "modifier",
-							"name": "Native",
-							"reference": "B23",
-							"cost": -6,
-							"cost_type": "points"
-						},
-						{
-							"id": "e9f38c71-c4bd-45ee-a5e2-b47a33029f96",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "None",
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "6cd10ab4-c4f9-4764-a47d-0e77d105d862",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Broken",
-							"cost": 1,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "3c7caa3c-055e-4422-ac8e-6a2d632b391c",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Accented",
-							"cost": 2,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "231ba28d-11ce-44e1-8d23-074d40ca57c6",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Native",
-							"cost": 3,
-							"cost_type": "points"
-						},
-						{
-							"id": "152ad20b-dc58-4abb-b256-71da14dbb89c",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "None",
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "6304a0d6-80f3-4a5f-b3cc-3ba2ae0c8063",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Broken",
-							"cost": 1,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "5818ab4a-2c4b-4c3e-a711-c4b6332daaca",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Accented",
-							"cost": 2,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "1b77515e-5789-49a0-8238-7242900c8c2c",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Native",
-							"cost": 3,
-							"cost_type": "points"
-						}
-					],
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
@@ -748,13 +652,89 @@
 							}
 						]
 					},
+					"modifiers": [
+						{
+							"id": "mCnIjcCWN736z83Tm",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -6,
+							"cost_type": "points"
+						},
+						{
+							"id": "mC0bS7E8LoTMINlVz",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "None",
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mEKUmBHyvbOeeFfbC",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Broken",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mxHyvdK3KZbvDZX0Q",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mvFDWlsbShTnAySun",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 3,
+							"cost_type": "points"
+						},
+						{
+							"id": "mLsp84KY_DMM32dcq",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "None",
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mD9jz6K0nJVlIwH0K",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Broken",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mh6uDgVc3qaaDkIPM",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "m54NJjUEBoBlwmxfg",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 3,
+							"cost_type": "points"
+						}
+					],
 					"calc": {
 						"points": 0
 					}
 				},
 				{
-					"id": "c95ea9e1-d66a-43fa-8d6c-3190c28f3834",
-					"type": "trait",
+					"id": "tdMzQSFnozFE3jLVv",
 					"name": "Language: Albisch",
 					"reference": "B24",
 					"tags": [
@@ -762,93 +742,6 @@
 						"Language",
 						"Mental"
 					],
-					"modifiers": [
-						{
-							"id": "ff972d9a-b925-4895-a489-f3d14999074d",
-							"type": "modifier",
-							"name": "Native",
-							"reference": "B23",
-							"cost": -6,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "e9f38c71-c4bd-45ee-a5e2-b47a33029f96",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "None",
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "6cd10ab4-c4f9-4764-a47d-0e77d105d862",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Broken",
-							"cost": 1,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "3c7caa3c-055e-4422-ac8e-6a2d632b391c",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Accented",
-							"cost": 2,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "231ba28d-11ce-44e1-8d23-074d40ca57c6",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Native",
-							"cost": 3,
-							"cost_type": "points"
-						},
-						{
-							"id": "152ad20b-dc58-4abb-b256-71da14dbb89c",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "None",
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "6304a0d6-80f3-4a5f-b3cc-3ba2ae0c8063",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Broken",
-							"cost": 1,
-							"cost_type": "points"
-						},
-						{
-							"id": "5818ab4a-2c4b-4c3e-a711-c4b6332daaca",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Accented",
-							"cost": 2,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "1b77515e-5789-49a0-8238-7242900c8c2c",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Native",
-							"cost": 3,
-							"cost_type": "points",
-							"disabled": true
-						}
-					],
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
@@ -866,13 +759,90 @@
 							}
 						]
 					},
+					"modifiers": [
+						{
+							"id": "mzc_zqmg9jXyMtOgu",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -6,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "m6X5IDR2anF04Zr-G",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "None",
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mnBeUMkfRJR-IH1aB",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Broken",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mU5ogzKw7_Rpbrbke",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mSk0p9WDlYzNrQKjJ",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 3,
+							"cost_type": "points"
+						},
+						{
+							"id": "mVqI2DCbvNWvqtCrP",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "None",
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mk-KfnsA25XTxekXA",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Broken",
+							"cost": 1,
+							"cost_type": "points"
+						},
+						{
+							"id": "msw_H2VOYBtoZpwEt",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 2,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mppQL2oEm-EpeDKoy",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 3,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
 					"calc": {
 						"points": 4
 					}
 				},
 				{
-					"id": "a99c22cc-e573-4ea7-9964-c6699c2060e8",
-					"type": "trait",
+					"id": "tVkO03dNFdok9Osph",
 					"name": "Language: Comentang",
 					"reference": "B24",
 					"tags": [
@@ -880,93 +850,6 @@
 						"Language",
 						"Mental"
 					],
-					"modifiers": [
-						{
-							"id": "ff972d9a-b925-4895-a489-f3d14999074d",
-							"type": "modifier",
-							"name": "Native",
-							"reference": "B23",
-							"cost": -6,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "e9f38c71-c4bd-45ee-a5e2-b47a33029f96",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "None",
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "6cd10ab4-c4f9-4764-a47d-0e77d105d862",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Broken",
-							"cost": 1,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "3c7caa3c-055e-4422-ac8e-6a2d632b391c",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Accented",
-							"cost": 2,
-							"cost_type": "points"
-						},
-						{
-							"id": "231ba28d-11ce-44e1-8d23-074d40ca57c6",
-							"type": "modifier",
-							"name": "Spoken",
-							"reference": "B24",
-							"notes": "Native",
-							"cost": 3,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "152ad20b-dc58-4abb-b256-71da14dbb89c",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "None",
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "6304a0d6-80f3-4a5f-b3cc-3ba2ae0c8063",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Broken",
-							"cost": 1,
-							"cost_type": "points",
-							"disabled": true
-						},
-						{
-							"id": "5818ab4a-2c4b-4c3e-a711-c4b6332daaca",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Accented",
-							"cost": 2,
-							"cost_type": "points"
-						},
-						{
-							"id": "1b77515e-5789-49a0-8238-7242900c8c2c",
-							"type": "modifier",
-							"name": "Written",
-							"reference": "B24",
-							"notes": "Native",
-							"cost": 3,
-							"cost_type": "points",
-							"disabled": true
-						}
-					],
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
@@ -984,13 +867,90 @@
 							}
 						]
 					},
+					"modifiers": [
+						{
+							"id": "m_DtRuOQkYElNrfnZ",
+							"name": "Native",
+							"reference": "B23",
+							"cost": -6,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mZAM7RnxJjwO0YfVv",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "None",
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mO8X9w3br4vTT0vdS",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Broken",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mpAr0D0N-LXPejRGI",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 2,
+							"cost_type": "points"
+						},
+						{
+							"id": "me2cr0yec86uWMQYH",
+							"name": "Spoken",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 3,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mjfT70pz6MbEvh824",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "None",
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "m0Pyhk6BIW9RvaMfu",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Broken",
+							"cost": 1,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mp0Zt_-x8_m2DlPFH",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Accented",
+							"cost": 2,
+							"cost_type": "points"
+						},
+						{
+							"id": "mQ76yDJyKibxENI4M",
+							"name": "Written",
+							"reference": "B24",
+							"notes": "Native",
+							"cost": 3,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
 					"calc": {
 						"points": 4
 					}
 				},
 				{
-					"id": "84a44f95-0881-4b10-a274-72abb05bcd27",
-					"type": "trait",
+					"id": "tu5vcmJ0GO5Vaxu3Y",
 					"name": "Cultural Familiarity (Eschar)",
 					"reference": "B23",
 					"notes": "Do not suffer the normal -3 penalty for unfamiliarity",
@@ -1000,16 +960,14 @@
 					],
 					"modifiers": [
 						{
-							"id": "ab12b725-01c8-4fc4-8e71-619a54c79496",
-							"type": "modifier",
+							"id": "mCSNCuU150z0jhtqp",
 							"name": "Alien",
 							"cost": 1,
 							"cost_type": "points",
 							"disabled": true
 						},
 						{
-							"id": "f72aa995-6766-4eaf-a3ca-0f4ff76d47c5",
-							"type": "modifier",
+							"id": "mRPj4hLihq0EDt2Sb",
 							"name": "Native",
 							"cost": -1,
 							"cost_type": "points"
@@ -1021,19 +979,16 @@
 					}
 				}
 			],
-			"open": true,
-			"name": "Languages and Cultures",
 			"calc": {
 				"points": 8
 			}
 		},
 		{
-			"id": "165be9fa-0aad-47b3-92bd-440929488b35",
-			"type": "trait_container",
+			"id": "THGB5Q-xUHRCllJlz",
+			"name": "Advantages",
 			"children": [
 				{
-					"id": "5ab973ea-18f5-42bd-9b37-b4892653bf4b",
-					"type": "trait",
+					"id": "tX1jf2dvnQ-r74QLL",
 					"name": "Absolute Direction",
 					"reference": "B34",
 					"tags": [
@@ -1043,21 +998,18 @@
 					],
 					"modifiers": [
 						{
-							"id": "940c9da3-6966-4ea6-9974-517614d0606b",
-							"type": "modifier",
+							"id": "mR9Wz1fRYQp_fqBdi",
 							"name": "Requires signal",
 							"reference": "B34",
 							"cost": -20,
 							"disabled": true
 						},
 						{
-							"id": "12730389-6652-4df8-8b34-ad078b76e408",
-							"type": "modifier",
+							"id": "mcPDhXMIGq0UDP7Me",
 							"name": "3D Spatial Sense",
 							"reference": "B34",
 							"cost": 5,
 							"cost_type": "points",
-							"disabled": true,
 							"features": [
 								{
 									"type": "skill_bonus",
@@ -1112,7 +1064,8 @@
 									},
 									"amount": 2
 								}
-							]
+							],
+							"disabled": true
 						}
 					],
 					"base_points": 5,
@@ -1171,8 +1124,7 @@
 					}
 				},
 				{
-					"id": "08d66910-c46f-4640-b530-9e62412c949f",
-					"type": "trait",
+					"id": "tZ9UC6mstCZy13XSO",
 					"name": "Combat Reflexes",
 					"reference": "B43",
 					"notes": "Never freeze",
@@ -1180,7 +1132,6 @@
 						"Advantage",
 						"Mental"
 					],
-					"base_points": 15,
 					"prereqs": {
 						"type": "prereq_list",
 						"all": true,
@@ -1195,6 +1146,7 @@
 							}
 						]
 					},
+					"base_points": 15,
 					"features": [
 						{
 							"type": "skill_bonus",
@@ -1241,15 +1193,13 @@
 					}
 				},
 				{
-					"id": "2ef8e067-59ad-42bd-93bd-ba2fa0af748d",
-					"type": "trait",
+					"id": "tKZPFUEhoNvkcVf5H",
 					"name": "Hard to Kill",
 					"reference": "B58",
 					"tags": [
 						"Advantage",
 						"Physical"
 					],
-					"levels": 2,
 					"points_per_level": 2,
 					"features": [
 						{
@@ -1260,13 +1210,13 @@
 						}
 					],
 					"can_level": true,
+					"levels": 2,
 					"calc": {
 						"points": 4
 					}
 				},
 				{
-					"id": "478df5c7-58d4-4e5b-b155-92c97b96e706",
-					"type": "trait",
+					"id": "tp_DNvE2bowuC4nnO",
 					"name": "High Pain Threshold",
 					"reference": "B59",
 					"notes": "Never suffer shock penalties when injured",
@@ -1292,14 +1242,12 @@
 					}
 				},
 				{
-					"id": "3d04f659-cc73-45a2-a484-04d2f980a726",
-					"type": "trait",
+					"id": "tDvscK2zfUPOJW9zD",
 					"name": "Natural Attacks",
 					"reference": "B271",
 					"weapons": [
 						{
-							"id": "62b167af-9925-45ce-9d9f-4d170b33bf85",
-							"type": "melee_weapon",
+							"id": "wAztshD6Q-YC33MGR",
 							"damage": {
 								"type": "cr",
 								"st": "thr",
@@ -1322,8 +1270,7 @@
 							}
 						},
 						{
-							"id": "b66fcec9-b1ff-4536-a034-751219ca80c6",
-							"type": "melee_weapon",
+							"id": "wXTHv_dWO-klqyXy8",
 							"damage": {
 								"type": "cr",
 								"st": "thr",
@@ -1356,8 +1303,7 @@
 							}
 						},
 						{
-							"id": "083161b6-af85-4884-bbc2-73997a7bac00",
-							"type": "melee_weapon",
+							"id": "wiRvs5PCx5BWIawqw",
 							"damage": {
 								"type": "cr",
 								"st": "thr"
@@ -1395,24 +1341,22 @@
 					}
 				},
 				{
-					"id": "d76c8ec4-33e1-4677-9ef0-992b9f5afb8e",
-					"type": "trait",
+					"id": "t4QMcYZBwjNVCRIPA",
 					"name": "Night Vision",
 					"reference": "B71,P87",
 					"tags": [
 						"Advantage",
 						"Physical"
 					],
-					"levels": 1,
 					"points_per_level": 1,
 					"can_level": true,
+					"levels": 1,
 					"calc": {
 						"points": 1
 					}
 				},
 				{
-					"id": "3b2d6837-8d81-44cd-b0c3-6ca6de46388e",
-					"type": "trait",
+					"id": "tyQYV5Vmrccq-MjPK",
 					"name": "Perfect Balance",
 					"reference": "B74",
 					"tags": [
@@ -1482,8 +1426,7 @@
 					}
 				},
 				{
-					"id": "c1892e02-6d24-402c-bb55-3cddc1d09c46",
-					"type": "trait",
+					"id": "to1HJ4e9D_8vpQZbd",
 					"name": "Very Fit",
 					"reference": "B55",
 					"notes": "Recover FP at twice the normal rate; lose FP at half the normal rate (in both cases, not FP spent for spells or psi powers)",
@@ -1504,19 +1447,16 @@
 					}
 				}
 			],
-			"open": true,
-			"name": "Advantages",
 			"calc": {
 				"points": 65
 			}
 		},
 		{
-			"id": "6ffa60b7-559d-44aa-b942-9d1fb0f0e23e",
-			"type": "trait_container",
+			"id": "TcUEI8WmmBIJ3uxRU",
+			"name": "Disadvantages",
 			"children": [
 				{
-					"id": "2aa1a5f4-5d18-4ab4-b9ba-997ba8840cc5",
-					"type": "trait",
+					"id": "tGmHjbkexXBhqp-TI",
 					"name": "Honesty",
 					"reference": "B138",
 					"notes": "Make a self-control roll when faced with the “need” to break unreasonable laws; if you fail, you must obey the law, whatever the consequences. If you manage to resist your urges and break the law, make a second self-control roll afterward. If you fail, you must turn yourself in to the authorities!",
@@ -1531,8 +1471,7 @@
 					}
 				},
 				{
-					"id": "505fea99-ee27-40e5-a9da-5f9e36352cd0",
-					"type": "trait",
+					"id": "tEkDi8q2xSztjUs_0",
 					"name": "Overconfidence",
 					"reference": "B148",
 					"notes": "You must make a self-control roll any time the GM feels you show an unreasonable degree of caution. If you fail, you must go ahead as though you were able to handle the situation!",
@@ -1559,8 +1498,7 @@
 					}
 				},
 				{
-					"id": "49b2b60b-a956-4760-87d1-efd962e0fe88",
-					"type": "trait",
+					"id": "tabyCZs4kHF6wk_O1",
 					"name": "Pacifism: Cannot Harm Innocents",
 					"reference": "B148",
 					"notes": "You may fight – you may even start fights – but you may only use deadly force on a foe that is attempting to do you serious harm. Capture is not “serious harm” unless you are already under penalty of death or have a Code of Honor that would require suicide if captured. You never intentionally do anything that causes, or even threatens to cause, injury to the uninvolved – particularly if they are “ordinary folks.”",
@@ -1570,8 +1508,7 @@
 					],
 					"modifiers": [
 						{
-							"id": "74354ea8-96ba-4eee-9027-9f746e9bd941",
-							"type": "modifier",
+							"id": "mSnqge2CSWNkJhiKX",
 							"name": "Species-Specific",
 							"reference": "UT32",
 							"cost": -80,
@@ -1584,8 +1521,7 @@
 					}
 				},
 				{
-					"id": "e68e7074-8bb8-4663-a71a-cafd71b75447",
-					"type": "trait",
+					"id": "tiZo8r5nsH3MeblLZ",
 					"name": "Vow",
 					"reference": "B161",
 					"notes": "Never touches swords",
@@ -1595,8 +1531,7 @@
 					],
 					"modifiers": [
 						{
-							"id": "b86c5f36-bb6b-44b9-80c2-7ec8d2946da6",
-							"type": "modifier",
+							"id": "mOn8uKpI4NaauC4fC",
 							"name": "Minor",
 							"reference": "B161",
 							"cost": -5,
@@ -1604,8 +1539,7 @@
 							"disabled": true
 						},
 						{
-							"id": "9140caed-80fb-42d8-bd78-4dd02a1d5503",
-							"type": "modifier",
+							"id": "m_b1TW5usux2trKC8",
 							"name": "Major",
 							"reference": "B161",
 							"cost": -10,
@@ -1613,8 +1547,7 @@
 							"disabled": true
 						},
 						{
-							"id": "41f6d00c-96f0-4d02-930d-8d793808461b",
-							"type": "modifier",
+							"id": "mlwkAqhj_plWl4ZWi",
 							"name": "Great",
 							"reference": "B161",
 							"cost": -15,
@@ -1626,8 +1559,7 @@
 					}
 				},
 				{
-					"id": "354ad727-311c-45c6-bcf3-7ba2078daacf",
-					"type": "trait",
+					"id": "twaLy9hFyqCuzhFLK",
 					"name": "Social Stigma (Minority Group)",
 					"reference": "B155",
 					"notes": "You are a member of a minority that the dominant culture around you regards as “barbarians” or “inferior.”",
@@ -1653,8 +1585,7 @@
 					}
 				},
 				{
-					"id": "f17eac01-626a-4e65-b138-94c5c4482ab5",
-					"type": "trait",
+					"id": "tXRtp4zTQz2GxVle3",
 					"name": "Sense of Duty",
 					"reference": "B153",
 					"tags": [
@@ -1663,8 +1594,7 @@
 					],
 					"modifiers": [
 						{
-							"id": "de47158b-455d-4448-8055-86065b81d6d1",
-							"type": "modifier",
+							"id": "m2Tdw8XnYwulenv_x",
 							"name": "Friends and Companions",
 							"reference": "B153",
 							"cost": -5,
@@ -1672,8 +1602,7 @@
 							"disabled": true
 						},
 						{
-							"id": "8fde1c7b-7271-4b9b-9032-8551dde325a8",
-							"type": "modifier",
+							"id": "m8bEDRocN6bVXnTCC",
 							"name": "@Small Group@",
 							"reference": "B153",
 							"cost": -5,
@@ -1681,8 +1610,7 @@
 							"disabled": true
 						},
 						{
-							"id": "89ec98d8-237b-4ab6-82e5-f9767592c065",
-							"type": "modifier",
+							"id": "mdvUMKdDHgnhsruGv",
 							"name": "@Individual@",
 							"reference": "B153",
 							"cost": -2,
@@ -1690,16 +1618,14 @@
 							"disabled": true
 						},
 						{
-							"id": "0daad494-07fe-4b61-a1fe-ab5e198b6411",
-							"type": "modifier",
+							"id": "mui2DvbATgi_Z97SV",
 							"name": "Clan",
 							"reference": "B153",
 							"cost": -10,
 							"cost_type": "points"
 						},
 						{
-							"id": "103f5c35-d3d6-4f0f-9336-447062d5c050",
-							"type": "modifier",
+							"id": "milphZ-F3P2zV3onM",
 							"name": "@Entire Race@",
 							"reference": "B153",
 							"cost": -15,
@@ -1707,8 +1633,7 @@
 							"disabled": true
 						},
 						{
-							"id": "721ee069-0e87-46c8-9638-0f2dee3142e6",
-							"type": "modifier",
+							"id": "mTnN8r0Zn8M07mzOh",
 							"name": "Every Living Being",
 							"reference": "B153",
 							"cost": -20,
@@ -1721,18 +1646,16 @@
 					}
 				}
 			],
-			"name": "Disadvantages",
 			"calc": {
 				"points": -60
 			}
 		},
 		{
-			"id": "f7138663-c07a-476f-8333-e5e4dc781943",
-			"type": "trait_container",
+			"id": "TLr57_FCLkLjxjy0V",
+			"name": "Quirks",
 			"children": [
 				{
-					"id": "7fa27093-f68e-404c-95fc-759ce72ef96e",
-					"type": "trait",
+					"id": "tlvrbLxgb_e0WVop3",
 					"name": "Distinctive Features",
 					"reference": "B165",
 					"notes": "Hides face when fighting",
@@ -1771,8 +1694,7 @@
 					}
 				},
 				{
-					"id": "0f0ab141-c215-446b-80fd-f99cefff2ce8",
-					"type": "trait",
+					"id": "tLwb_x3AciKvNEuIg",
 					"name": "Embarassed by showing affection",
 					"reference": "B162",
 					"tags": [
@@ -1785,8 +1707,7 @@
 					}
 				},
 				{
-					"id": "d51961ce-61d1-4743-a0d6-e5fc5f24d9f8",
-					"type": "trait",
+					"id": "tZ_SsaRTCEw5-R265",
 					"name": "Sings to herself but does not know the words",
 					"reference": "B162",
 					"tags": [
@@ -1799,8 +1720,7 @@
 					}
 				},
 				{
-					"id": "dcf0ca58-f618-461f-8182-35ac5db45fef",
-					"type": "trait",
+					"id": "trJQfx4Ck7wOU0N5k",
 					"name": "Collects war trophies",
 					"reference": "B162",
 					"tags": [
@@ -1813,15 +1733,12 @@
 					}
 				}
 			],
-			"name": "Quirks",
 			"calc": {
 				"points": -4
 			}
 		},
 		{
-			"id": "c2036657-d1a6-4eb5-b59a-ffd53ae44293",
-			"type": "trait_container",
-			"open": true,
+			"id": "TMBaYZmQ9NLC5duqx",
 			"name": "Perks",
 			"calc": {
 				"points": 0
@@ -1830,22 +1747,13 @@
 	],
 	"skills": [
 		{
-			"id": "19186508-cbd1-4370-b951-3b29451c6351",
-			"type": "skill",
+			"id": "swhl_JXbXCaK9Si6b",
 			"name": "Acrobatics",
 			"reference": "B174,MA54",
 			"tags": [
 				"Athletic"
 			],
 			"difficulty": "dx/h",
-			"points": 4,
-			"defaulted_from": {
-				"type": "dx",
-				"modifier": -6,
-				"level": 8,
-				"adjusted_level": 8,
-				"points": -8
-			},
 			"defaults": [
 				{
 					"type": "dx",
@@ -1862,14 +1770,21 @@
 					"modifier": -4
 				}
 			],
+			"points": 4,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
 			"calc": {
 				"level": 15,
 				"rsl": "DX+1"
 			}
 		},
 		{
-			"id": "fcf9815c-bc00-4337-a45c-9b267544f8fc",
-			"type": "skill",
+			"id": "sch90LTCGO0IoqNfS",
 			"name": "Bow",
 			"reference": "B182",
 			"tags": [
@@ -1878,6 +1793,12 @@
 				"Weapon"
 			],
 			"difficulty": "dx/a",
+			"defaults": [
+				{
+					"type": "dx",
+					"modifier": -5
+				}
+			],
 			"points": 4,
 			"defaulted_from": {
 				"type": "dx",
@@ -1886,20 +1807,13 @@
 				"adjusted_level": 9,
 				"points": -9
 			},
-			"defaults": [
-				{
-					"type": "dx",
-					"modifier": -5
-				}
-			],
 			"calc": {
 				"level": 15,
 				"rsl": "DX+1"
 			}
 		},
 		{
-			"id": "356c0307-f857-4d0d-9a47-aba740ab0cb0",
-			"type": "skill",
+			"id": "s-LDHzXOVJwW0drV7",
 			"name": "Brawling",
 			"reference": "B182,MA55",
 			"tags": [
@@ -1908,7 +1822,6 @@
 				"Weapon"
 			],
 			"difficulty": "dx/e",
-			"points": 2,
 			"features": [
 				{
 					"type": "weapon_bonus",
@@ -1925,14 +1838,14 @@
 					"per_die": true
 				}
 			],
+			"points": 2,
 			"calc": {
 				"level": 15,
 				"rsl": "DX+1"
 			}
 		},
 		{
-			"id": "c764e8eb-4aec-40a2-8dae-fa55c1446692",
-			"type": "skill",
+			"id": "siPdW0kcVvkfuskjD",
 			"name": "Camouflage",
 			"reference": "B183",
 			"tags": [
@@ -1941,14 +1854,6 @@
 				"Outdoor"
 			],
 			"difficulty": "iq/e",
-			"points": 8,
-			"defaulted_from": {
-				"type": "iq",
-				"modifier": -4,
-				"level": 6,
-				"adjusted_level": 6,
-				"points": -6
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -1960,14 +1865,21 @@
 					"modifier": -2
 				}
 			],
+			"points": 8,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -4,
+				"level": 6,
+				"adjusted_level": 6,
+				"points": -6
+			},
 			"calc": {
 				"level": 13,
 				"rsl": "IQ+3"
 			}
 		},
 		{
-			"id": "598c7c2b-1952-488b-8128-1ab2330312a5",
-			"type": "skill",
+			"id": "sM36h4av7zV4LK-B7",
 			"name": "Climbing",
 			"reference": "B183",
 			"tags": [
@@ -1978,8 +1890,14 @@
 				"Street"
 			],
 			"difficulty": "dx/a",
-			"points": 1,
 			"encumbrance_penalty_multiplier": 1,
+			"defaults": [
+				{
+					"type": "dx",
+					"modifier": -5
+				}
+			],
+			"points": 1,
 			"defaulted_from": {
 				"type": "dx",
 				"modifier": -5,
@@ -1987,20 +1905,13 @@
 				"adjusted_level": 9,
 				"points": -9
 			},
-			"defaults": [
-				{
-					"type": "dx",
-					"modifier": -5
-				}
-			],
 			"calc": {
 				"level": 14,
 				"rsl": "DX+0"
 			}
 		},
 		{
-			"id": "1680f917-c1b6-4ab1-b7c8-a2af3c70492f",
-			"type": "skill",
+			"id": "sW1kSNT64M_OtwChq",
 			"name": "Fast-Draw",
 			"reference": "B194,MA56",
 			"tags": [
@@ -2017,8 +1928,7 @@
 			}
 		},
 		{
-			"id": "4f240a1d-faff-4c1d-88f3-68940055c25f",
-			"type": "skill",
+			"id": "sUbPcUw6sAV8ZYQ-0",
 			"name": "Fast-Draw",
 			"reference": "B194,MA56",
 			"tags": [
@@ -2035,8 +1945,7 @@
 			}
 		},
 		{
-			"id": "714007df-3cbf-472a-9683-a77d16417774",
-			"type": "skill",
+			"id": "spuUQ3dUGM2IXdyLP",
 			"name": "Fast-Draw",
 			"reference": "B194,MA56",
 			"tags": [
@@ -2053,8 +1962,7 @@
 			}
 		},
 		{
-			"id": "5012a0dc-1f56-4386-8ba3-58c0a8e01cb7",
-			"type": "skill",
+			"id": "sflWSH0sKvTqPbvN_",
 			"name": "Intimidation",
 			"reference": "B202",
 			"tags": [
@@ -2064,14 +1972,6 @@
 				"Street"
 			],
 			"difficulty": "will/a",
-			"points": 8,
-			"defaulted_from": {
-				"type": "will",
-				"modifier": -5,
-				"level": 5,
-				"adjusted_level": 5,
-				"points": -5
-			},
 			"defaults": [
 				{
 					"type": "will",
@@ -2083,14 +1983,21 @@
 					"modifier": -3
 				}
 			],
+			"points": 8,
+			"defaulted_from": {
+				"type": "will",
+				"modifier": -5,
+				"level": 5,
+				"adjusted_level": 5,
+				"points": -5
+			},
 			"calc": {
 				"level": 12,
 				"rsl": "Will+2"
 			}
 		},
 		{
-			"id": "3175e768-581c-4c1e-b457-c0090ec305b3",
-			"type": "skill",
+			"id": "sa99tTXUd1-mA-8Rg",
 			"name": "Judo",
 			"reference": "B203,MA57",
 			"notes": "Allows parrying two different attacks per turn, one with each hand.",
@@ -2100,16 +2007,15 @@
 				"Weapon"
 			],
 			"difficulty": "dx/h",
-			"points": 8,
 			"encumbrance_penalty_multiplier": 1,
+			"points": 8,
 			"calc": {
 				"level": 15,
 				"rsl": "DX+1"
 			}
 		},
 		{
-			"id": "c83c1f1b-45a1-424b-8579-e360b8ae0033",
-			"type": "skill",
+			"id": "saTuU4lG0uIbrg7-x",
 			"name": "Jumping",
 			"reference": "B203,MA57",
 			"tags": [
@@ -2123,8 +2029,7 @@
 			}
 		},
 		{
-			"id": "38b50e58-b601-497e-b0da-7788129de236",
-			"type": "skill",
+			"id": "sIR4cqGaT-hR7HjGc",
 			"name": "Knife",
 			"reference": "B208",
 			"tags": [
@@ -2133,14 +2038,6 @@
 				"Weapon"
 			],
 			"difficulty": "dx/e",
-			"points": 2,
-			"defaulted_from": {
-				"type": "dx",
-				"modifier": -4,
-				"level": 10,
-				"adjusted_level": 10,
-				"points": -10
-			},
 			"defaults": [
 				{
 					"type": "skill",
@@ -2162,14 +2059,21 @@
 					"modifier": -4
 				}
 			],
+			"points": 2,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -4,
+				"level": 10,
+				"adjusted_level": 10,
+				"points": -10
+			},
 			"calc": {
 				"level": 15,
 				"rsl": "DX+1"
 			}
 		},
 		{
-			"id": "76aa296a-7019-4b6e-b447-604f0e872b6f",
-			"type": "skill",
+			"id": "sQTydluujhRGL_hSj",
 			"name": "Navigation",
 			"reference": "B211",
 			"tags": [
@@ -2179,16 +2083,7 @@
 				"Vehicle"
 			],
 			"specialization": "Land",
-			"tech_level": "3",
 			"difficulty": "iq/a",
-			"points": 2,
-			"defaulted_from": {
-				"type": "iq",
-				"modifier": -5,
-				"level": 5,
-				"adjusted_level": 5,
-				"points": -5
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -2224,20 +2119,34 @@
 					"modifier": -2
 				}
 			],
+			"tech_level": "3",
+			"points": 2,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 5,
+				"adjusted_level": 5,
+				"points": -5
+			},
 			"calc": {
 				"level": 13,
 				"rsl": "IQ+3"
 			}
 		},
 		{
-			"id": "57cf6458-16c1-4024-b72c-ccf000cd6762",
-			"type": "skill",
+			"id": "saZz6oO7bGRmVumQu",
 			"name": "Parkour",
 			"reference": "LHR",
 			"tags": [
 				"Athletic"
 			],
 			"difficulty": "dx/a",
+			"defaults": [
+				{
+					"type": "ht",
+					"modifier": -5
+				}
+			],
 			"points": 4,
 			"defaulted_from": {
 				"type": "ht",
@@ -2246,26 +2155,25 @@
 				"adjusted_level": 7,
 				"points": -7
 			},
-			"defaults": [
-				{
-					"type": "ht",
-					"modifier": -5
-				}
-			],
 			"calc": {
 				"level": 15,
 				"rsl": "DX+1"
 			}
 		},
 		{
-			"id": "9549264c-fedb-4abd-9087-080543f48d0f",
-			"type": "skill",
+			"id": "sxzMrF0wAphqy1vak",
 			"name": "Running",
 			"reference": "B218",
 			"tags": [
 				"Athletic"
 			],
 			"difficulty": "ht/a",
+			"defaults": [
+				{
+					"type": "ht",
+					"modifier": -5
+				}
+			],
 			"points": 8,
 			"defaulted_from": {
 				"type": "ht",
@@ -2274,20 +2182,13 @@
 				"adjusted_level": 7,
 				"points": -7
 			},
-			"defaults": [
-				{
-					"type": "ht",
-					"modifier": -5
-				}
-			],
 			"calc": {
 				"level": 14,
 				"rsl": "HT+2"
 			}
 		},
 		{
-			"id": "de614522-6cd9-4b35-af5a-89074db7e742",
-			"type": "skill",
+			"id": "spbO0SjTHY3I9UAMT",
 			"name": "Shadowing",
 			"reference": "B219",
 			"tags": [
@@ -2297,15 +2198,6 @@
 				"Street"
 			],
 			"difficulty": "iq/a",
-			"points": 4,
-			"defaulted_from": {
-				"type": "skill",
-				"name": "Stealth",
-				"modifier": -4,
-				"level": 11,
-				"adjusted_level": 11,
-				"points": 4
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -2322,14 +2214,22 @@
 					"modifier": -4
 				}
 			],
+			"points": 4,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Stealth",
+				"modifier": -4,
+				"level": 11,
+				"adjusted_level": 11,
+				"points": 4
+			},
 			"calc": {
 				"level": 11,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "7f537a85-7b20-44a6-9cd2-4afa52a54bba",
-			"type": "skill",
+			"id": "s_HqinaiA8GdItLkE",
 			"name": "Spear",
 			"reference": "B208",
 			"tags": [
@@ -2338,14 +2238,6 @@
 				"Weapon"
 			],
 			"difficulty": "dx/a",
-			"points": 4,
-			"defaulted_from": {
-				"type": "dx",
-				"modifier": -5,
-				"level": 9,
-				"adjusted_level": 9,
-				"points": -9
-			},
 			"defaults": [
 				{
 					"type": "dx",
@@ -2362,14 +2254,21 @@
 					"modifier": -2
 				}
 			],
+			"points": 4,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
 			"calc": {
 				"level": 15,
 				"rsl": "DX+1"
 			}
 		},
 		{
-			"id": "9e65bce9-f73b-4ca9-867b-f2455eec12ae",
-			"type": "skill",
+			"id": "sJWiyOG27d3YvBoX7",
 			"name": "Stealth",
 			"reference": "B222",
 			"tags": [
@@ -2379,15 +2278,7 @@
 				"Street"
 			],
 			"difficulty": "dx/a",
-			"points": 4,
 			"encumbrance_penalty_multiplier": 1,
-			"defaulted_from": {
-				"type": "dx",
-				"modifier": -5,
-				"level": 9,
-				"adjusted_level": 9,
-				"points": -9
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -2398,18 +2289,25 @@
 					"modifier": -5
 				}
 			],
+			"points": 4,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
 			"calc": {
 				"level": 15,
 				"rsl": "DX+1"
 			}
 		},
 		{
-			"id": "e05c9956-782b-46df-a74e-d0b0d85b1646",
-			"type": "skill_container",
+			"id": "STeN7bzuU7KLN6zEr",
+			"name": "Techniques",
 			"children": [
 				{
-					"id": "f543dc08-1f80-40eb-9460-562140930278",
-					"type": "technique",
+					"id": "q1NiacMYNvRrzQpt8",
 					"name": "Acrobatic Stand",
 					"reference": "MA65",
 					"tags": [
@@ -2428,8 +2326,7 @@
 					}
 				},
 				{
-					"id": "e5e8c9eb-fc42-4c56-9b73-cbd550268e86",
-					"type": "technique",
+					"id": "qzRTOVVAHpC_q0XXT",
 					"name": "Evade",
 					"reference": "MA71",
 					"tags": [
@@ -2450,8 +2347,7 @@
 					}
 				},
 				{
-					"id": "4ae23fb7-8df4-4df5-98da-e83e35b66b25",
-					"type": "technique",
+					"id": "qHM_HOpTyaOX9b96D",
 					"name": "Eye-Gouging",
 					"reference": "MA71",
 					"tags": [
@@ -2473,8 +2369,7 @@
 					}
 				},
 				{
-					"id": "b7df10a9-6d7d-47ac-b9f3-65409296ae51",
-					"type": "technique",
+					"id": "qK4AXNQgfKdlVudKG",
 					"name": "Judo Throw",
 					"reference": "MA75",
 					"tags": [
@@ -2495,8 +2390,7 @@
 					}
 				},
 				{
-					"id": "1296b682-1069-48ae-84c9-e4796df7a9c9",
-					"type": "technique",
+					"id": "q7K0-oKLOqY29bBUJ",
 					"name": "Trip",
 					"reference": "MA81",
 					"tags": [
@@ -2518,8 +2412,7 @@
 					}
 				},
 				{
-					"id": "a4ee8099-afd8-4348-add4-70942956a4a1",
-					"type": "technique",
+					"id": "qM5f_qnINKYGorS1m",
 					"name": "Wrist Lock",
 					"reference": "MA65",
 					"tags": [
@@ -2539,13 +2432,10 @@
 						"rsl": "+0"
 					}
 				}
-			],
-			"open": true,
-			"name": "Techniques"
+			]
 		},
 		{
-			"id": "c0bde04f-26b9-4efd-b20d-87a7b0a9ae0d",
-			"type": "skill",
+			"id": "sn5ngFx0oRFWU1b6f",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"tags": [
@@ -2555,6 +2445,12 @@
 			],
 			"specialization": "Knife",
 			"difficulty": "dx/e",
+			"defaults": [
+				{
+					"type": "dx",
+					"modifier": -4
+				}
+			],
 			"points": 1,
 			"defaulted_from": {
 				"type": "dx",
@@ -2563,20 +2459,13 @@
 				"adjusted_level": 10,
 				"points": -10
 			},
-			"defaults": [
-				{
-					"type": "dx",
-					"modifier": -4
-				}
-			],
 			"calc": {
 				"level": 14,
 				"rsl": "DX+0"
 			}
 		},
 		{
-			"id": "1d83e466-97f0-4617-a777-ac6501c073ea",
-			"type": "skill",
+			"id": "sh8bsIIuQ0807Vi36",
 			"name": "Thrown Weapon",
 			"reference": "B226",
 			"tags": [
@@ -2586,14 +2475,6 @@
 			],
 			"specialization": "Spear",
 			"difficulty": "dx/e",
-			"points": 1,
-			"defaulted_from": {
-				"type": "dx",
-				"modifier": -4,
-				"level": 10,
-				"adjusted_level": 10,
-				"points": -10
-			},
 			"defaults": [
 				{
 					"type": "dx",
@@ -2611,14 +2492,21 @@
 					"modifier": -2
 				}
 			],
+			"points": 1,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -4,
+				"level": 10,
+				"adjusted_level": 10,
+				"points": -10
+			},
 			"calc": {
 				"level": 14,
 				"rsl": "DX+0"
 			}
 		},
 		{
-			"id": "cb4a58bf-65a7-447a-bb26-e442576b8ac8",
-			"type": "skill",
+			"id": "sENWAUVfj_HuDZ8Kv",
 			"name": "Tracking",
 			"reference": "B226",
 			"tags": [
@@ -2626,14 +2514,6 @@
 				"Outdoor"
 			],
 			"difficulty": "per/a",
-			"points": 8,
-			"defaulted_from": {
-				"type": "per",
-				"modifier": -5,
-				"level": 5,
-				"adjusted_level": 5,
-				"points": -5
-			},
 			"defaults": [
 				{
 					"type": "per",
@@ -2645,6 +2525,14 @@
 					"modifier": -5
 				}
 			],
+			"points": 8,
+			"defaulted_from": {
+				"type": "per",
+				"modifier": -5,
+				"level": 5,
+				"adjusted_level": 5,
+				"points": -5
+			},
 			"calc": {
 				"level": 12,
 				"rsl": "Per+2"
@@ -2653,8 +2541,7 @@
 	],
 	"equipment": [
 		{
-			"id": "b5b238a4-d078-4ec5-b3a1-47d7502a79d6",
-			"type": "equipment",
+			"id": "edOvp6DJVDHaJ5wcG",
 			"description": "Large Knife",
 			"reference": "B272",
 			"tech_level": "0",
@@ -2662,13 +2549,11 @@
 				"Melee Weapon",
 				"Missile Weapon"
 			],
-			"quantity": 5,
 			"value": 40,
 			"weight": "1 lb",
 			"weapons": [
 				{
-					"id": "6fe06673-89a4-4f1a-a415-51ae243c9cb0",
-					"type": "melee_weapon",
+					"id": "wQjzAL6F1fgZkHnGn",
 					"damage": {
 						"type": "cut",
 						"st": "sw",
@@ -2714,8 +2599,7 @@
 					}
 				},
 				{
-					"id": "3f42a716-3051-497f-b287-912095dffcd5",
-					"type": "melee_weapon",
+					"id": "wKtK8cjeH7gkHzWp7",
 					"damage": {
 						"type": "imp",
 						"st": "thr"
@@ -2760,8 +2644,7 @@
 					}
 				},
 				{
-					"id": "ce852649-71ad-4350-b4c7-7d71931c4971",
-					"type": "ranged_weapon",
+					"id": "WtuLO1esGxNazc1lR",
 					"damage": {
 						"type": "imp",
 						"st": "thr"
@@ -2790,6 +2673,7 @@
 					}
 				}
 			],
+			"quantity": 5,
 			"equipped": true,
 			"calc": {
 				"extended_value": 200,
@@ -2797,8 +2681,7 @@
 			}
 		},
 		{
-			"id": "a02ec6a2-2545-4253-a833-9dd508da7ebb",
-			"type": "equipment",
+			"id": "e7Z0lnUucI6n0NwyW",
 			"description": "Dagger",
 			"reference": "B272",
 			"tech_level": "1",
@@ -2806,13 +2689,11 @@
 				"Melee Weapon",
 				"Missile Weapon"
 			],
-			"quantity": 5,
 			"value": 20,
 			"weight": "0.25 lb",
 			"weapons": [
 				{
-					"id": "7ba39755-8571-43fa-a9af-4d6cc53df929",
-					"type": "melee_weapon",
+					"id": "w1IjY2Rx_R3bmNKiP",
 					"damage": {
 						"type": "imp",
 						"st": "thr",
@@ -2858,8 +2739,7 @@
 					}
 				},
 				{
-					"id": "7d6f591f-516a-4cc3-92bf-8971b0537f84",
-					"type": "ranged_weapon",
+					"id": "WDtigAZBEL_sAB1Wu",
 					"damage": {
 						"type": "imp",
 						"st": "thr",
@@ -2889,6 +2769,7 @@
 					}
 				}
 			],
+			"quantity": 5,
 			"equipped": true,
 			"calc": {
 				"extended_value": 100,
@@ -2896,8 +2777,7 @@
 			}
 		},
 		{
-			"id": "553bb51b-89ed-44c8-8946-c0b95108d28f",
-			"type": "equipment",
+			"id": "eRt61HJqCnlPiK6mC",
 			"description": "Spear",
 			"reference": "B273",
 			"tech_level": "0",
@@ -2905,13 +2785,11 @@
 				"Melee Weapon",
 				"Missile Weapon"
 			],
-			"quantity": 2,
 			"value": 40,
 			"weight": "4 lb",
 			"weapons": [
 				{
-					"id": "a0ab4b29-3d89-4e1a-b631-242a5dd9061a",
-					"type": "melee_weapon",
+					"id": "wzT-iIWC2L6HADoHy",
 					"damage": {
 						"type": "imp",
 						"st": "thr",
@@ -2948,8 +2826,7 @@
 					}
 				},
 				{
-					"id": "c08a3872-56ac-438a-91af-b5164b8af563",
-					"type": "melee_weapon",
+					"id": "w_Ao6SfQ810rvzMsD",
 					"damage": {
 						"type": "imp",
 						"st": "thr",
@@ -2986,8 +2863,7 @@
 					}
 				},
 				{
-					"id": "144a40da-e63e-47c5-86df-45782f6c5c35",
-					"type": "ranged_weapon",
+					"id": "WXdyV_5CVaA6Fg68q",
 					"damage": {
 						"type": "imp",
 						"st": "thr",
@@ -3029,6 +2905,7 @@
 					}
 				}
 			],
+			"quantity": 2,
 			"equipped": true,
 			"calc": {
 				"extended_value": 80,
@@ -3036,8 +2913,7 @@
 			}
 		},
 		{
-			"id": "dc88e5b6-baa1-4a30-b7af-6fc9cc00e2f8",
-			"type": "equipment",
+			"id": "erY2anvff9IbVhmVp",
 			"description": "Short Bow",
 			"reference": "B275",
 			"tech_level": "0",
@@ -3045,14 +2921,11 @@
 				"Missile Weapon",
 				"UsesAmmoType:Arrow"
 			],
-			"rated_strength": 10,
-			"quantity": 1,
 			"value": 50,
 			"weight": "2 lb",
 			"weapons": [
 				{
-					"id": "bed3f421-624f-4491-bff1-3b0d6540eaf3",
-					"type": "ranged_weapon",
+					"id": "W6nvYQ7AyMrkuNdqT",
 					"damage": {
 						"type": "imp",
 						"st": "thr"
@@ -3076,11 +2949,12 @@
 					"calc": {
 						"level": 15,
 						"damage": "1d-2 imp",
-						"range": "100/150",
-						"strength": "10†"
+						"range": "100/150"
 					}
 				}
 			],
+			"rated_strength": 10,
+			"quantity": 1,
 			"equipped": true,
 			"calc": {
 				"extended_value": 50,
